@@ -3,7 +3,7 @@ git clone <repository URL>
 **create or modify files**
 git status
 git add newfile.ext
-git commit
+git commit -m "commit message"
 git push origin master
 git log
 
