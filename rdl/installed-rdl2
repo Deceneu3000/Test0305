@@ -1,0 +1,153 @@
+###Red Dog 10-Y Linux installed packages###
+
+###Added###
+libsrcinst-2.5.tar.gz			#GNU Source Installer - library
+sourceinstall-2.5.tar.gz		#GNU Source Installer - command-line
+htop-1.0.tar.gz				#htop - an interactive process viewer for Linux
+ncdu-1.7.tar.gz				#NCDU - NCurses Disk Usage
+rarlinux-4.0.1.tar.gz			#RAR - archiver
+LVM2.2.02.88.tgz			#LVM2 - Logical Volume Manager v2
+dialog_1.1-20111020.orig.tar.gz		#Dialog - display dialog boxes from shell scripts
+cabextract-1.4.tar.gz			#Cabextract - Free Software for extracting Microsoft cabinet files
+ntfs-3g_ntfsprogs-2011.4.12.tgz		#NTFS-3G - read/write NTFS driver
+dosfstools-3.0.12.tar.bz2		#dosfstools - Utilities to create and check MS-DOS FAT filesystems
+lsof_4.84_src.tar			#Lsof - LiSt Open Files
+libburn-1.1.4.tar.gz			#libburn - library for reading, mastering and writing optical discs
+libcdio-0.82.tar.bz2			#libcdio - library for CD-ROM and CD image access
+cdw-0.7.0.tar.gz			#cdw - ncurses interface for GNU/Linux command line CD/DVD tools
+ccal-4.0.tar.bz2			#ccal - Colorised calendar utility
+chntpw-source-110511.zip		#chntpw - The Offline NT Password Editor
+cmospwd-5.0.tar.bz2			#CmosPwd - Cmos password recovery tools
+bash-completion-1.3.tar.bz2		#bash-completion - programmable completion for the bash shell
+lm_sensors-3.3.1.tar.bz2		#Lm_sensors - Linux hardware monitoring
+p7zip_9.20.1_src_all.tar.bz2		#p7zip - port of 7-Zip file archiver
+linunace25.tgz				#UnAce for Linux
+fsarchiver-bin-0.6.12.tar.gz		#FSArchiver - system tool that allows to save the contents of a file-system to a compressed archive file
+fsarchiver_dialog
+cowsay-3.03.tar.gz			#cowsay - A configurable talking cow
+fortune-mod-1.99.1.tar.xz		#fortune-mod - provides fortune cookies on demand
+librecode0_3.6-18_i386.tar.bz2
+squashfs4.2.tar.gz			#squashfs-tools - create and append to squashfs filesystems
+
+
+###LFS###
+autoconf-2.68.tar.bz2
+automake-1.11.1.tar.bz2
+bash-4.2.tar.gz
+binutils-2.21.tar.bz2
+bison-2.4.3.tar.bz2
+bzip2-1.0.6-install_docs-1.patch
+bzip2-1.0.6.tar.gz
+config
+coreutils-8.10-i18n-1.patch
+coreutils-8.10-uname-1.patch
+coreutils-8.10.tar.gz
+diffutils-3.0.tar.gz
+e2fsprogs-1.41.14.tar.gz
+file-5.05.tar.gz
+findutils-4.4.2.tar.gz
+flex-2.5.35-gcc44-1.patch
+flex-2.5.35.tar.bz2
+gawk-3.1.8.tar.bz2
+gcc-4.5.2-startfiles_fix-1.patch
+gcc-4.5.2.tar.bz2
+gdbm-1.8.3.tar.gz
+gettext-0.18.1.1.tar.gz
+glibc-2.13-gcc_fix-1.patch
+glibc-2.13.tar.bz2
+gmp-5.0.1.tar.bz2
+grep-2.7.tar.gz
+groff-1.21.tar.gz
+grub-1.98.tar.gz
+gzip-1.4.tar.gz
+iana-etc-2.30.tar.bz2
+inetutils-1.8.tar.gz
+installed
+iproute2-2.6.37.tar.bz2
+kbd-1.15.2-backspace-1.patch
+kbd-1.15.2.tar.gz
+less-436.tar.gz
+lfs-bootscripts-20100627.tar.bz2
+libtool-2.4.tar.gz
+linux-2.6.37.tar.bz2
+m4-1.4.15.tar.bz2
+make-3.82.tar.bz2
+man-db-2.5.9.tar.gz
+man-pages-3.32.tar.bz2
+module-init-tools-3.12.tar.bz2
+mpc-0.8.2.tar.gz
+mpfr-3.0.0.tar.bz2
+ncurses-5.7.tar.gz
+patch-2.6.1-test_fix-1.patch
+patch-2.6.1.tar.bz2
+perl-5.12.3-libc-1.patch
+perl-5.12.3.tar.bz2
+pkg-config-0.25.tar.gz
+procps-3.2.8-fix_HZ_errors-1.patch
+procps-3.2.8-watch_unicode-1.patch
+procps-3.2.8.tar.gz
+psmisc-22.13.tar.gz
+readline-6.2.tar.gz
+sed-4.2.1.tar.bz2
+shadow-4.1.4.3.tar.bz2
+sysklogd-1.5.tar.gz
+sysvinit-2.88dsf.tar.bz2
+tar-1.25.tar.bz2
+texinfo-4.13a.tar.gz
+udev-166-testfiles.tar.bz2
+udev-166.tar.bz2
+udev-config-20100128.tar.bz2
+util-linux-2.19.tar.bz2
+vim-7.3.tar.bz2
+xz-5.0.1.tar.bz2
+zlib-1.2.5.tar.bz2
+
+###BLFS###
+blfs-bootscripts-20100825.tar.bz2
+deb2targz.tar.bz2
+initd-tools-0.1.3.tar.gz
+rpm2targz.tar.bz2
+unzip60.tar.gz
+zip30.tar.gz
+slang-2.2.2.tar.bz2
+pcre-8.10.tar.bz2
+glib-2.24.2.tar.bz2
+mc-4.8.1.tar.bz2
+tiff-3.9.4.tar.gz
+jpegsrc.v8b.tar.gz
+libpng-1.2.44.tar.bz2
+gpm-1.20.6.tar.bz2
+links-2.5.tar.bz2
+cpio-2.11.tar.bz2
+wget-1.13.4.tar.bz2
+libidn-1.19.tar.gz
+openssl-1.0.0d-fix_manpages-1.patch
+BLFS-ca-bundle-3.12.9.0.tar.bz2
+openssl-1.0.0d.tar.gz
+net-tools-1.60-mii_ioctl-1.patch
+net-tools-1.60-kernel_headers-2.patch
+net-tools-1.60-gcc34-3.patch
+net-tools-1.60.tar.bz2
+dhcpcd-4.0.11.tar.bz2
+which-2.20.tar.gz
+whois_5.0.11.tar.gz
+usbutils-004.tar.bz2
+libusb-compat-0.1.3.tar.bz2
+libusb-1.0.8.tar.bz2
+sudo-1.8.2.tar.gz
+pciutils-3.1.7.tar.bz2
+alsa-utils-1.0.24.2.tar.bz2
+alsa-plugins-1.0.24.tar.bz2
+alsa-lib-1.0.24.1.tar.bz2
+mpg123-1.13.4.tar.bz2
+cdrtools-3.01a05.ext2_fs.h.patch
+cdrtools-3.01a05.tar.bz2
+wireless_tools.29.tar.gz
+eject-2.1.5.tar.bz2
+reiserfsprogs-3.6.21.tar.bz2
+dvd+rw-tools-7.1-headers-1.patch
+udftools-1.0.0b3-fixes-1.patch
+udftools-1.0.0b3.patch.bz2
+dvd+rw-tools-7.1.tar.gz
+udftools-1.0.0b3.tar.gz
+openssh-5.9p1.tar.gz
