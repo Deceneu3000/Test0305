@@ -1,0 +1,575 @@
+# Red Dog 10-Y Linux installed packages
+
+# Addons
+deco39.tgz			#Demos Commander - A clone of Norton Commander for Unix
+htop-0.7.tar.gz			#htop - an interactive process viewer for Linux
+xli.1.16.tar.gz			#XLI - X11 Image Loading Utility
+twin-0.6.0.tar.gz		#Twin - a text-mode windowing environment
+twutils-0.2.tar.gz		#Utilities for twin. Currently contains 'twkalc', a calculator derived from kcalc
+conky-1.5.1.tar.bz2     	#Conky - system monitor for X
+leafpad-0.8.14.tar.gz		#Leafpad - GTK+ text editor
+firefox-2.0.0.14.tar.gz		#Mozilla Firefox - web browser
+libsrcinst-2.4.tar.gz		#GNU Source Installer - library
+sourceinstall-gtk-2.4.tar.gz	#GNU Source Installer -GTK graphical front end
+emelfm2-0.4.tar.gz		#emelFM2 - File manager
+fox-1.6.32.tar.gz		#FOX - C++ based Toolkit for developing GUI
+xfe-1.04.tar.gz			#XFE - File manager
+xarchiver-0.4.6.tar.bz2		#Xarchiver - archiver frontend
+gps-1.1.0.tar.gz		#gps - graphical tool to report process status
+XnView-x86-linux2.x.tgz		#XnView - Image viewer
+FileZilla_3.0.10-linux.tar.bz2	#FileZilla - FTP client
+rarlinux-3.7.1.tar.gz		#RAR - archiver
+Xdialog-2.3.1.tar.bz2		#Xdialog - GUI front end to shell scripts
+idesk-0.7.5.tar.bz2		#iDesk - gives icons on desktop
+wget::gui.zip			#WgetGUI - GUI for Wget download manager
+treesize-0.53.tar.bz2		#TreeSize - Disk usage analyzer
+dialog_1.1-20080316.tar.gz	#Dialog - display dialog boxes from shell scripts
+searchmonkey-0.8.1.tar.gz	#Searchmonkey - power searching without the pain
+gpicview-0.1.9.tar.gz		#GPicView - A Simple and Fast Image Viewer for X
+tkdiff-4.1.4-unix.tar.gz	#tkdiff - tkdiff is a graphical front end to the diff program
+lxappearance-0.2.tar.gz		#LXAppearance - GTK+ theme switcher
+dosfstools-2.11.src.tar.gz	#dosfstools - Utilities to create and check MS-DOS FAT filesystems
+ace-of-penguins_1.2.tar.gz	#Ace of Penguins - Solitaire-games with penguin-look
+hardinfo-0.4.2.3.tar.bz2	#HardInfo - System information and benchmark tool
+isomaster-1.3.1.tar.bz2		#IsoMaster - graphical CD image editor
+cdrbq_1.23.tar.bz2		#CDRBQ - Graphical frontend for writing CDs
+fuse-2.7.3.tar.gz		#FUSE - Filesystem in Userspace
+ntfs-3g-1.2506.tgz		#NTFS-3G - read/write NTFS driver
+ntfsprogs-2.0.0.tar.bz2		#ntfsprogs - collection of utilities for doing stuff with NTFS volumes
+parted-1.8.8.tar.bz2		#GNU Parted - package for creating, destroying, resizing, checking and copying partitions, and the file systems on them
+chntpw-source-070923.zip	#chntpw - The Offline NT Password Editor
+cmospwd-5.0.tar.bz2		#CmosPwd - Cmos password recovery tools
+gparted-0.3.6.tar.gz		#GParted - GNOME Partition Editor
+libnewt0.52.2.tar.bz2
+partimage-0.6.7.tar.bz2		#Partimage -a Linux utility which saves partitions to an image file
+dosbox-0.72.tar.gz		#DOSBox - An open source DOS emulator
+wine-0.9.61.tar.bz2		#Wine - a free implementation of Windows on Unix
+openttd-0.6.0-source.tar.bz2	#OpenTTD - open-source clone of the classic game Transport Tycoon Deluxe
+clamav-0.93.tar.gz		#Clam AntiVirus - anti-virus toolkit for UNIX
+clam-rb-gtk-0.14.tar.gz		#Clam-RB - graphical user interface for Clam Anti-Virus command line scanner for Linux
+linunace25.tgz			#UnAce for Linux
+p7zip_4.57_src_all.tar.bz2	#p7zip - port of 7-Zip file archiver
+gamix-1.99.p14.tar.gz		#gamix - mixer application for ALSA
+
+# LFS
+autoconf-2.61.tar.bz2
+automake-1.10.tar.bz2
+bash-3.2.tar.gz
+bash-3.2-fixes-5.patch
+bash-doc-3.2.tar.gz
+binutils-2.17.tar.bz2
+bison-2.3.tar.bz2
+bzip2-1.0.4.tar.gz
+bzip2-1.0.4-install_docs-1.patch
+coreutils-6.9.tar.bz2
+coreutils-6.9-i18n-1.patch
+coreutils-6.9-suppress_uptime_kill_su-1.patch
+coreutils-6.9-uname-1.patch
+db-4.5.20.tar.gz
+db-4.5.20-fixes-1.patch
+dejagnu-1.4.4.tar.gz
+diffutils-2.8.1.tar.gz
+diffutils-2.8.1-i18n-1.patch
+e2fsprogs-1.40.2.tar.gz
+expect-5.43.0.tar.gz
+expect-5.43.0-spawn-1.patch
+file-4.21.tar.gz
+findutils-4.2.31.tar.gz
+flex-2.5.33.tar.bz2
+gawk-3.1.5.tar.bz2
+gawk-3.1.5-segfault_fix-1.patch
+gcc-4.1.2.tar.bz2
+gcc-4.1.2-specs-1.patch
+gettext-0.16.1.tar.gz
+glibc-2.5.1.tar.bz2
+glibc-libidn-2.5.1.tar.gz
+grep-2.5.1a.tar.bz2
+grep-2.5.1a-redhat_fixes-2.patch
+groff-1.18.1.4.tar.gz
+groff-1.18.1.4-debian_fixes-1.patch
+grub-0.97.tar.gz
+grub-0.97-disk_geometry-1.patch
+gzip-1.3.12.tar.gz
+iana-etc-2.20.tar.bz2
+inetutils-1.5.tar.gz
+inetutils-1.5-no_server_man_pages-2.patch
+iproute2-2.6.20-070313.tar.gz
+kbd-1.12.tar.bz2
+kbd-1.12-backspace-1.patch
+kbd-1.12-gcc4_fixes-1.patch
+less-406.tar.gz
+lfs-bootscripts-6.3.tar.bz2
+libtool-1.5.24.tar.gz
+linux-2.6.22.5.tar.bz2
+m4-1.4.10.tar.bz2
+make-3.81.tar.bz2
+man-db-2.4.4.tar.gz
+man-db-2.4.4-fixes-1.patch
+man-pages-2.63.tar.bz2
+mktemp-1.5.tar.gz
+mktemp-1.5-add_tempfile-3.patch
+module-init-tools-3.2.2.tar.bz2
+module-init-tools-3.2.2-modprobe-1.patch
+ncurses-5.6.tar.gz
+ncurses-5.6-coverity_fixes-1.patch
+patch-2.5.4.tar.gz
+perl-5.8.8.tar.bz2
+perl-5.8.8-libc-2.patch
+procps-3.2.7.tar.gz
+psmisc-22.5.tar.gz
+readline-5.2.tar.gz
+readline-5.2-fixes-3.patch
+sed-4.1.5.tar.gz
+shadow-4.0.18.1.tar.bz2
+shadow-4.0.18.1-useradd_fix-2.patch
+sysklogd-1.4.1.tar.gz
+sysklogd-1.4.1-8bit-1.patch
+sysklogd-1.4.1-fixes-2.patch
+sysvinit-2.86.tar.gz
+tar-1.18.tar.bz2
+tcl8.4.15-src.tar.gz
+texinfo-4.9.tar.bz2
+texinfo-4.9-multibyte-1.patch
+texinfo-4.9-tempfile_fix-1.patch
+udev-113.tar.bz2
+udev-config-6.3.tar.bz2
+util-linux-2.12r.tar.bz2
+util-linux-2.12r-cramfs-1.patch
+util-linux-2.12r-lseek-1.patch
+vim-7.1.tar.bz2
+vim-7.1-fixes-1.patch
+vim-7.1-lang.tar.gz
+vim-7.1-mandir-1.patch
+zlib-1.2.3.tar.gz
+
+# BLFS
+blfs-bootscripts-20071221.tar.bz2
+blfs-bootscripts-20080315.tar.bz2
+blfs-bootscripts-20080326.tar.bz2
+cpio-2.9.tar.bz2
+curl-7.16.3.tar.bz2
+dhcpcd-3.0.19.tar.bz2
+ed-0.8.tar.bz2
+expat-2.0.1.tar.gz
+fontconfig-2.4.2.tar.gz
+freetype-2.3.4.tar.bz2
+freetype-doc-2.3.4.tar.bz2
+glib-2.12.12.tar.bz2
+gpm-1.20.1.tar.bz2
+gpm-1.20.1-segfault-1.patch
+gpm-1.20.1-silent-1.patch
+inetutils-1.5.tar.gz
+jpegsrc.v6b.tar.gz
+libpng-1.2.18.tar.bz2
+libpthread-stubs-0.1.tar.bz2
+libxml2-2.6.29.tar.gz
+libxslt-1.1.21.tar.gz
+links-2.1pre33.tar.bz2
+mc-4.6.1.tar.gz
+mc-4.6.1-bash32-1.patch
+mc-4.6.1-debian_fixes-1.patch
+ncftp-3.2.1-src.tar.bz2
+net-tools-1.60.tar.bz2
+net-tools-1.60-gcc34-3.patch
+net-tools-1.60-kernel_headers-2.patch
+net-tools-1.60-mii_ioctl-1.patch
+openssl-0.9.8g.tar.gz
+openssl-0.9.8g-fix_manpages-1.patch
+pciutils-2.2.3.tar.bz2
+pidgin-2.4.2.tar.bz2
+pkg-config-0.22.tar.gz
+Python-2.5.1.tar.bz2
+Python-2.5.1-gdbm-1.patch
+rman-3.2.tar.gz
+slang-2.1.1.tar.bz2
+tiff-3.8.2.tar.gz
+unzip-5.52-security_fix-1.patch
+unzip552.tar.gz
+wget-1.10.2.tar.gz
+which-2.16.tar.gz
+whois_4.7.24.tar.gz
+XML-Parser-2.34.tar.gz
+zip232.tar.gz
+#Convert
+deb2targz.tar.bz2
+rpm2targz.tar.bz2
+#The X Window System
+#Applications
+appres-1.0.1.tar.bz2
+bdftopcf-1.0.1.tar.bz2
+beforelight-1.0.2.tar.bz2
+bitmap-1.0.3.tar.bz2
+editres-1.0.3.tar.bz2
+fonttosfnt-1.0.3.tar.bz2
+fslsfonts-1.0.1.tar.bz2
+fstobdf-1.0.2.tar.bz2
+iceauth-1.0.1.tar.bz2
+ico-1.0.1.tar.bz2
+lbxproxy-1.0.1.tar.bz2
+listres-1.0.1.tar.bz2
+mkfontdir-1.0.3.tar.bz2
+mkfontscale-1.0.3.tar.bz2
+oclock-1.0.1.tar.bz2
+proxymngr-1.0.1.tar.bz2
+rgb-1.0.1.tar.bz2
+rstart-1.0.2.tar.bz2
+scripts-1.0.1.tar.bz2
+sessreg-1.0.2.tar.bz2
+setxkbmap-1.0.3.tar.bz2
+showfont-1.0.1.tar.bz2
+smproxy-1.0.2.tar.bz2
+twm-1.0.3.tar.bz2
+viewres-1.0.1.tar.bz2
+x11perf-1.4.1.tar.bz2
+xauth-1.0.2.tar.bz2
+xbiff-1.0.1.tar.bz2
+xcalc-1.0.1.tar.bz2
+xclipboard-1.0.1.tar.bz2
+xclock-1.0.2.tar.bz2
+xcmsdb-1.0.1.tar.bz2
+xconsole-1.0.2.tar.bz2
+xcursorgen-1.0.1.tar.bz2
+xdbedizzy-1.0.2.tar.bz2
+xditview-1.0.1.tar.bz2
+xdm-1.1.4.tar.bz2
+xdpyinfo-1.0.2.tar.bz2
+xdriinfo-1.0.1.tar.bz2
+xedit-1.0.2.tar.bz2
+xev-1.0.2.tar.bz2
+xeyes-1.0.1.tar.bz2
+xf86dga-1.0.2.tar.bz2
+xfd-1.0.1.tar.bz2
+xfindproxy-1.0.1.tar.bz2
+xfontsel-1.0.2.tar.bz2
+xfs-1.0.4.tar.bz2
+xfsinfo-1.0.1.tar.bz2
+xfwp-1.0.1.tar.bz2
+xgamma-1.0.1.tar.bz2
+xgc-1.0.1.tar.bz2
+xhost-1.0.1.tar.bz2
+xinit-1.0.4.tar.bz2
+xkbcomp-1.0.3.tar.bz2
+xkbevd-1.0.2.tar.bz2
+xkbprint-1.0.1.tar.bz2
+xkbutils-1.0.1.tar.bz2
+xkill-1.0.1.tar.bz2
+xload-1.0.2.tar.bz2
+xlogo-1.0.1.tar.bz2
+xlsatoms-1.0.1.tar.bz2
+xlsclients-1.0.1.tar.bz2
+xlsfonts-1.0.2.tar.bz2
+xmag-1.0.1.tar.bz2
+xman-1.0.2.tar.bz2
+xmessage-1.0.1.tar.bz2
+xmh-1.0.1.tar.bz2
+xmodmap-1.0.2.tar.bz2
+xmore-1.0.1.tar.bz2
+xphelloworld-1.0.1.tar.bz2
+xplsprinters-1.0.1.tar.bz2
+xpr-1.0.2.tar.bz2
+xprehashprinterlist-1.0.1.tar.bz2
+xprop-1.0.2.tar.bz2
+xrandr-1.0.2.tar.bz2
+xrdb-1.0.3.tar.bz2
+xrefresh-1.0.2.tar.bz2
+xrx-1.0.1.tar.bz2
+xset-1.0.2.tar.bz2
+xsetmode-1.0.0.tar.bz2
+xsetpointer-1.0.0.tar.bz2
+xsetroot-1.0.1.tar.bz2
+xsm-1.0.1.tar.bz2
+xstdcmap-1.0.1.tar.bz2
+xtrap-1.0.2.tar.bz2
+xvidtune-1.0.1.tar.bz2
+xvinfo-1.0.1.tar.bz2
+xwd-1.0.1.tar.bz2
+xwininfo-1.0.2.tar.bz2
+xwud-1.0.1.tar.bz2
+#Data
+xcursor-themes-1.0.1.tar.bz2
+#Drivers
+xf86-input-acecad-1.1.1.tar.bz2
+xf86-input-aiptek-1.0.1.tar.bz2
+xf86-input-calcomp-1.1.0.tar.bz2
+xf86-input-citron-2.2.0.tar.bz2
+xf86-input-digitaledge-1.1.0.tar.bz2
+xf86-input-dmc-1.1.0.tar.bz2
+xf86-input-dynapro-1.1.0.tar.bz2
+xf86-input-elo2300-1.1.0.tar.bz2
+xf86-input-elographics-1.0.0.5.tar.bz2
+xf86-input-evdev-1.1.5.tar.bz2
+xf86-input-fpit-1.1.0.tar.bz2
+xf86-input-hyperpen-1.1.0.tar.bz2
+xf86-input-jamstudio-1.1.0.tar.bz2
+xf86-input-joystick-1.1.1.tar.bz2
+xf86-input-keyboard-1.1.1.tar.bz2
+xf86-input-magellan-1.1.0.tar.bz2
+xf86-input-magictouch-1.0.0.5.tar.bz2
+xf86-input-microtouch-1.1.0.tar.bz2
+xf86-input-mouse-1.1.2.tar.bz2
+xf86-input-mutouch-1.1.0.tar.bz2
+xf86-input-palmax-1.1.0.tar.bz2
+xf86-input-penmount-1.2.0.tar.bz2
+xf86-input-spaceorb-1.1.0.tar.bz2
+xf86-input-summa-1.1.0.tar.bz2
+xf86-input-tek4957-1.1.0.tar.bz2
+xf86-input-ur98-1.1.0.tar.bz2
+xf86-input-vmmouse-12.4.1.tar.bz2
+xf86-input-void-1.1.0.tar.bz2
+xf86-video-apm-1.1.1.tar.bz2
+xf86-video-ark-0.6.0.tar.bz2
+xf86-video-ast-0.81.0.tar.bz2
+xf86-video-ati-6.6.3.tar.bz2
+xf86-video-chips-1.1.1.tar.bz2
+xf86-video-cirrus-1.1.0.tar.bz2
+xf86-video-cyrix-1.1.0.tar.bz2
+xf86-video-dummy-0.2.0.tar.bz2
+xf86-video-fbdev-0.3.1.tar.bz2
+xf86-video-glint-1.1.1.tar.bz2
+xf86-video-i128-1.2.1.tar.bz2
+xf86-video-i740-1.1.0.tar.bz2
+xf86-video-i810-1.6.5.tar.bz2
+xf86-video-imstt-1.1.0.tar.bz2
+xf86-video-mga-1.4.6.1.tar.bz2
+xf86-video-neomagic-1.1.1.tar.bz2
+xf86-video-newport-0.2.1.tar.bz2
+xf86-video-nsc-2.8.2.tar.bz2
+xf86-video-nv-1.2.2.1.tar.bz2
+xf86-video-rendition-4.1.3.tar.bz2
+xf86-video-s3-0.5.0.tar.bz2
+xf86-video-s3virge-1.9.1.tar.bz2
+xf86-video-savage-2.1.2.tar.bz2
+xf86-video-siliconmotion-1.4.2.tar.bz2
+xf86-video-sis-0.9.3.tar.bz2
+xf86-video-sisusb-0.8.1.tar.bz2
+xf86-video-tdfx-1.3.0.tar.bz2
+xf86-video-tga-1.1.0.tar.bz2
+xf86-video-trident-1.2.3.tar.bz2
+xf86-video-tseng-1.1.1.tar.bz2
+xf86-video-v4l-0.1.1.tar.bz2
+xf86-video-vesa-1.3.0.tar.bz2
+xf86-video-vga-4.1.0.tar.bz2
+xf86-video-via-0.2.2.tar.bz2
+xf86-video-vmware-10.14.1.tar.bz2
+xf86-video-voodoo-1.1.1.tar.bz2
+#Fonts
+encodings-1.0.2.tar.bz2
+font-adobe-100dpi-1.0.0.tar.bz2
+font-adobe-75dpi-1.0.0.tar.bz2
+font-adobe-utopia-100dpi-1.0.1.tar.bz2
+font-adobe-utopia-75dpi-1.0.1.tar.bz2
+font-adobe-utopia-type1-1.0.1.tar.bz2
+font-alias-1.0.1.tar.bz2
+font-arabic-misc-1.0.0.tar.bz2
+font-bh-100dpi-1.0.0.tar.bz2
+font-bh-75dpi-1.0.0.tar.bz2
+font-bh-lucidatypewriter-100dpi-1.0.0.tar.bz2
+font-bh-lucidatypewriter-75dpi-1.0.0.tar.bz2
+font-bh-ttf-1.0.0.tar.bz2
+font-bh-type1-1.0.0.tar.bz2
+font-bitstream-100dpi-1.0.0.tar.bz2
+font-bitstream-75dpi-1.0.0.tar.bz2
+font-bitstream-speedo-1.0.0.tar.bz2
+font-bitstream-type1-1.0.0.tar.bz2
+font-cronyx-cyrillic-1.0.0.tar.bz2
+font-cursor-misc-1.0.0.tar.bz2
+font-daewoo-misc-1.0.0.tar.bz2
+font-dec-misc-1.0.0.tar.bz2
+font-ibm-type1-1.0.0.tar.bz2
+font-isas-misc-1.0.0.tar.bz2
+font-jis-misc-1.0.0.tar.bz2
+font-micro-misc-1.0.0.tar.bz2
+font-misc-cyrillic-1.0.0.tar.bz2
+font-misc-ethiopic-1.0.0.tar.bz2
+font-misc-meltho-1.0.0.tar.bz2
+font-misc-misc-1.0.0.tar.bz2
+font-mutt-misc-1.0.0.tar.bz2
+font-schumacher-misc-1.0.0.tar.bz2
+font-screen-cyrillic-1.0.1.tar.bz2
+font-sony-misc-1.0.0.tar.bz2
+font-sun-misc-1.0.0.tar.bz2
+font-util-1.0.1.tar.bz2
+font-winitzki-cyrillic-1.0.0.tar.bz2
+font-xfree86-type1-1.0.0.tar.bz2
+#Libraries
+libAppleWM-1.0.0.tar.bz2
+libdmx-1.0.2.tar.bz2
+libfontenc-1.0.4.tar.bz2
+libFS-1.0.0.tar.bz2
+libICE-1.0.3.tar.bz2
+liblbxutil-1.0.1.tar.bz2
+liboldX-1.0.1.tar.bz2
+libSM-1.0.3.tar.bz2
+libWindowsWM-1.0.0.tar.bz2
+libX11-1.1.2.tar.bz2
+libX11-1.1.2-badargs-1.patch
+libXaw-1.0.3.tar.bz2
+libXcomposite-0.3.2.tar.bz2
+libXcursor-1.1.8.tar.bz2
+libXdamage-1.0.4.tar.bz2
+libXevie-1.0.2.tar.bz2
+libXext-1.0.3.tar.bz2
+libXfixes-4.0.3.tar.bz2
+libXfont-1.2.8.tar.bz2
+libXfontcache-1.0.4.tar.bz2
+libXft-2.1.12.tar.bz2
+libXi-1.0.4.tar.bz2
+libXinerama-1.0.2.tar.bz2
+libxkbfile-1.0.4.tar.bz2
+libxkbui-1.0.2.tar.bz2
+libXmu-1.0.3.tar.bz2
+libXp-1.0.0.tar.bz2
+libXpm-3.5.6.tar.bz2
+libXprintAppUtil-1.0.1.tar.bz2
+libXprintUtil-1.0.1.tar.bz2
+libXrandr-1.1.2.tar.bz2
+libXrender-0.9.2.tar.bz2
+libXres-1.0.3.tar.bz2
+libXScrnSaver-1.1.2.tar.bz2
+libXt-1.0.5.tar.bz2
+libXTrap-1.0.0.tar.bz2
+libXtst-1.0.2.tar.bz2
+libXv-1.0.3.tar.bz2
+libXvMC-1.0.4.tar.bz2
+libXxf86dga-1.0.1.tar.bz2
+libXxf86misc-1.0.1.tar.bz2
+libXxf86vm-1.0.1.tar.bz2
+xtrans-1.0.3.tar.bz2
+#Protocol Headers
+applewmproto-1.0.3.tar.bz2
+bigreqsproto-1.0.2.tar.bz2
+compositeproto-0.3.1.tar.bz2
+damageproto-1.0.3.tar.bz2
+dmxproto-2.2.2.tar.bz2
+evieext-1.0.2.tar.bz2
+fixesproto-4.0.tar.bz2
+fontcacheproto-0.1.2.tar.bz2
+fontsproto-2.0.2.tar.bz2
+glproto-1.4.8.tar.bz2
+inputproto-1.3.2.tar.bz2
+kbproto-1.0.3.tar.bz2
+printproto-1.0.3.tar.bz2
+randrproto-1.1.2.tar.bz2
+recordproto-1.13.2.tar.bz2
+renderproto-0.9.2.tar.bz2
+resourceproto-1.0.2.tar.bz2
+scrnsaverproto-1.1.0.tar.bz2
+trapproto-3.4.3.tar.bz2
+videoproto-2.2.2.tar.bz2
+windowswmproto-1.0.3.tar.bz2
+xcmiscproto-1.1.2.tar.bz2
+xextproto-7.0.2.tar.bz2
+xf86bigfontproto-1.1.2.tar.bz2
+xf86dgaproto-2.0.2.tar.bz2
+xf86driproto-2.0.3.tar.bz2
+xf86miscproto-0.9.2.tar.bz2
+xf86rushproto-1.1.2.tar.bz2
+xf86vidmodeproto-2.2.2.tar.bz2
+xineramaproto-1.1.2.tar.bz2
+xproto-7.0.10.tar.bz2
+xproxymanagementprotocol-1.0.2.tar.bz2
+#Utilities
+gccmakedep-1.0.2.tar.bz2
+imake-1.0.2.tar.bz2
+lndir-1.0.1.tar.bz2
+makedepend-1.0.1.tar.bz2
+util-macros-1.1.5.tar.bz2
+xorg-cf-files-1.0.2.tar.bz2
+#Others
+libdrm-2.3.0.tar.gz
+libXau-1.0.3.tar.bz2
+libxcb-1.0.tar.bz2
+libxcb-1.0-sloppy_lock-1.patch
+libXdmcp-1.0.2.tar.bz2
+luit-1.0.2.tar.bz2
+MesaLib-6.5.2.tar.bz2
+xbitmaps-1.0.1.tar.bz2
+xcb-proto-1.0.tar.bz2
+xkeyboard-config-0.9.tar.bz2
+xorg-server-1.2.0.tar.bz2
+xorg-server-1.2.0-xcmisc-1.patch
+xterm-231.tgz
+#After Basic X
+atk-1.18.0.tar.bz2
+cairo-1.4.10.tar.gz
+gtk+-2.10.13.tar.bz2
+pango-1.16.4.tar.bz2
+gcc-3.3.6-linkonce-1.patch
+gcc-3.3.6-no_fixincludes-1.patch
+gcc-3.3.6.tar.bz2
+dejavu-fonts-ttf-2.23.tar.bz2
+glib-1.2.10-gcc34-1.patch
+glib-1.2.10.tar.gz
+gtk+-1.2.10.tar.gz
+imlib2-1.4.0.tar.gz
+giflib-4.1.4.tar.gz
+fluxbox-1.0.0.tar.bz2 - fluxconf-0.9.9.tar.gz
+hicolor-icon-theme-0.10.tar.gz
+startup-notification-0.9.tar.bz2
+rxvt-unicode-9.02.tar.bz2
+libidn-0.6.14.tar.gz
+openssl-0.9.8g-fix_manpages-1.patch
+openssl-0.9.8g.tar.gz
+bc-1.06.tar.gz
+libglade-2.6.1.tar.bz2
+xscreensaver-5.03.tar.gz
+lesstif-0.95.0-testsuite_fix-1.patch
+lesstif-0.95.0.tar.bz2
+tcl8.4.15-src.tar.gz
+Tk-804.027.tar.gz
+tk8.4.15-src.tar.gz
+xpdf-3.02.tar.gz
+ghostscript-fonts-std-8.11.tar.gz
+alsa-lib-1.0.13.tar.bz2
+alsa-plugins-1.0.13.tar.bz2
+alsa-utils-1.0.13.tar.bz2
+mpg123-1.4.2.tar.bz2
+xmms-1.2.10-gcc4-1.patch
+xmms-1.2.10.tar.bz2
+vim-7.1-fixes-6.patch #gVim
+gtk-engines-2.12.2.tar.bz2
+reiserfsprogs-3.6.20.tar.gz
+xfsprogs_2.9.7-1.tar.gz
+libsoup-2.2.100.tar.bz2
+cdrdao-1.2.2.tar.bz2
+cdrtools-2.01.01a38.tar.bz2
+dvd+rw-tools-7.0.tar.gz
+lame-3.97.tar.gz
+libao-0.8.8.tar.gz
+libmad-0.15.1b.tar.gz
+libogg-1.1.3.tar.gz
+libvorbis-1.2.0.tar.bz2
+udftools-1.0.0b3.patch.bz2
+udftools-1.0.0b3.tar.gz
+libusb-0.1.12.tar.gz
+usbutils-0.72.tar.gz
+SDL-1.2.13.tar.gz
+all-20071007.tar.bz2
+Blue-1.7.tar.bz2
+font-arial-iso-8859-1.tar.bz2
+MPlayer-1.0rc2.tar.bz2
+gimp-2.4.5.tar.bz2
+libart_lgpl-2.3.19-upstream_fix-1.patch
+libart_lgpl-2.3.19.tar.bz2
+pycairo-1.4.0.tar.gz
+pygobject-2.12.3.tar.bz2
+pygtk-2.10.6.tar.bz2
+abiword-2.4.6.tar.bz2
+fribidi-0.10.8-test_fixes-1.patch
+fribidi-0.10.8.tar.gz
+gnome-icon-theme-2.18.0.tar.bz2
+icon-naming-utils-0.8.2.tar.gz
+libgnomecanvas-2.14.0.tar.bz2
+libgnomeprint-2.18.0.tar.bz2
+libgnomeprintui-2.18.0.tar.bz2
+popt-1.10.4.tar.gz
+XML-Simple-2.18.tar.gz
+gnumeric-1.8.2.tar.bz2
+goffice-0.6.1-gtkdoc_rebase-1.patch
+goffice-0.6.1.tar.bz2
+libgsf-1.14.7.tar.bz2
+pcre-7.6-abi_breakage-1.patch
+pcre-7.6.tar.bz2
+ppp-2.4.4.tar.gz
+rp-pppoe-3.8.tar.gz
+gmp-4.2.2.tar.bz2
