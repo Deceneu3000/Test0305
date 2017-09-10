@@ -4,7 +4,6 @@
   <app name="3C Toolbox" package="ccc71.at.free" />
   <app name="500px" package="com.fivehundredpx.viewer" />
   <app name="920 Text Editor" package="com.jecelyin.editor" />
-  <app name="9GAG" package="com.ninegag.android.app" />
   <app name="AccuWeather" package="com.accuweather.android" />
   <app name="AdAway" package="org.adaway" />
   <app name="ADM" package="com.dv.adm" />
@@ -15,7 +14,8 @@
   <app name="Amplify" package="com.ryansteckler.nlpunbounce" />
   <app name="Android Assistant" package="com.advancedprocessmanager" />
   <app name="AppChecker" package="com.kroegerama.appchecker" />
-  <app name="Appstore" package="com.amazon.venezia" />
+  <app name="AppLock" package="com.sp.protector.free" />
+  <app name="Awesome Icons" package="com.momocode.shortcuts" />
   <app name="BlueMail" package="me.bluemail.mail" />
   <app name="Bluetooth ToolKit" package="com.android.xposed.finaly.bluetoothunlock" />
   <app name="BootManager" package="de.defim.apk.bootmanager" />
@@ -52,10 +52,9 @@
   <app name="DVRplayer" package="com.HBplayer" />
   <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="eMAG" package="ro.emag.android" />
-  <app name="engiemobile.ro" package="ro.engie.agentia" />
+  <app name="engiemobile" package="ro.engie.agentia" />
   <app name="ES Classic Theme" package="com.estrongs.android.pop.classic.material" />
   <app name="ES File Explorer" package="com.estrongs.android.pop" />
-  <app name="ES Permission Manager" package="com.estrongs.android.permmgrservice" />
   <app name="ES Task Manager" package="com.estrongs.android.taskmanager" />
   <app name="F-Droid" package="org.fdroid.fdroid" />
   <app name="Facebook" package="com.facebook.katana" />
@@ -67,6 +66,7 @@
   <app name="Foxit PDF" package="com.foxit.mobile.pdf.lite" />
   <app name="Gesture Search" package="com.google.android.apps.gesturesearch" />
   <app name="Google Handwriting Input" package="com.google.android.apps.handwriting.ime" />
+  <app name="GPS Essentials" package="com.mictale.gpsessentials" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
   <app name="GPX Viewer" package="com.vecturagames.android.app.gpxviewer" />
   <app name="GravityBox [KK]" package="com.ceco.kitkat.gravitybox" />
@@ -76,6 +76,7 @@
   <app name="Hash Droid" package="com.hobbyone.HashDroid" />
   <app name="Hash It!" package="com.ginkel.hashit" />
   <app name="HaveOwnOrientation" package="de.defim.apk.haveownorientation" />
+  <app name="HERE WeGo" package="com.here.app.maps" />
   <app name="Holo Theme" package="com.estrongs.android.pop.theme.ics" />
   <app name="IMDb" package="com.imdb.mobile" />
   <app name="init.d scripts support" package="com.ryosoftware.initd" />
@@ -89,6 +90,7 @@
   <app name="Kodi" package="org.xbmc.kodi" />
   <app name="Legislativ" package="ro.numedecod.android.legi" />
   <app name="Lingua.ly" package="com.lingualy.lingualymobile" />
+  <app name="Link2SD" package="com.buak.Link2SD" />
   <app name="List My Apps" package="de.onyxbits.listmyapps" />
   <app name="Lite" package="com.facebook.lite" />
   <app name="LiveBoot" package="eu.chainfire.liveboot" />
@@ -116,13 +118,13 @@
   <app name="OpenVPN Connect" package="net.openvpn.openvpn" />
   <app name="Opera" package="com.opera.browser" />
   <app name="Opera Max" package="com.opera.max.global" />
+  <app name="Opera VPN" package="com.opera.vpn" />
   <app name="OsmAnd" package="net.osmand" />
   <app name="OSMTracker for Android™" package="me.guillaumin.android.osmtracker" />
   <app name="pCloud" package="com.pcloud.pcloud" />
   <app name="Phone Genie" package="com.apptuners.phonegenie" />
   <app name="Photos" package="com.google.android.apps.photos" />
   <app name="Pocket" package="com.ideashower.readitlater.pro" />
-  <app name="Polycon" package="com.thearclabs.polycon" />
   <app name="Power Nap" package="net.jzhang.powernap" />
   <app name="PowerLine" package="com.urbandroid.inline" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
@@ -133,6 +135,7 @@
   <app name="QuickShortcutMaker" package="com.sika524.android.quickshortcut" />
   <app name="RAR" package="com.rarlab.rar" />
   <app name="Renotify" package="com.liamlang.renotify" />
+  <app name="RETRO" package="org.retro.material.icons.vintage" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="S Converter" package="com.SabriApps.SConverter" />
@@ -141,10 +144,12 @@
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Sensor Box for Android" package="imoblife.androidsensorbox" />
   <app name="Sheets" package="com.google.android.apps.docs.editors.sheets" />
+  <app name="SimCity" package="com.ea.game.simcitymobile_row" />
+  <app name="Siru" package="com.dotsillustration.siru" />
   <app name="Skype" package="com.skype.raider" />
   <app name="SManager" package="os.tools.scriptmanager" />
-  <app name="Smart AppLock" package="com.sp.protector.free" />
-  <app name="Smart Voice Recorder" package="com.andrwq.recorder" />
+  <app name="Smart Recorder" package="com.andrwq.recorder" />
+  <app name="Solid Explorer" package="pl.solidexplorer2" />
   <app name="Sound Meter" package="kr.sira.sound" />
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="StickMount" package="eu.chainfire.stickmount" />
@@ -169,6 +174,8 @@
   <app name="TotalCmd-Wifi Transfer" package="com.ghisler.tcplugins.wifitransfer" />
   <app name="Totalcmd-Windows Live OneDrive" package="com.ghisler.tcplugins.WindowsLive" />
   <app name="Translate" package="com.google.android.apps.translate" />
+  <app name="Translator" package="com.microsoft.translator" />
+  <app name="Transport Urban" package="com.indyvision.transport.transporturban" />
   <app name="Trickster MOD" package="com.bigeyes0x0.trickstermod" />
   <app name="Tumblr" package="com.tumblr" />
   <app name="TunnelBear" package="com.tunnelbear.android" />
@@ -188,6 +195,7 @@
   <app name="WiFi Key Recovery" package="aws.apps.wifiKeyRecovery" />
   <app name="Wikipedia" package="org.wikipedia" />
   <app name="Winamp" package="com.nullsoft.winamp" />
+  <app name="Windyty" package="com.windyty.android" />
   <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="Xposed Installer" package="de.robv.android.xposed.installer" />
   <app name="Yaffs Explorer" package="fr.wdscript.yaffsexplorer" />
