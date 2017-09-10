@@ -9,7 +9,7 @@
   <app name="Google Play services" package="com.google.android.gms" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
   <app name="Holo Launcher" package="com.mobint.hololauncher" />
-  <app name="Inoreader" package="com.innologica.inoreader" />
+  <app name="Instagram" package="com.instagram.android" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
   <app name="KeePassDroid" package="com.android.keepass" />
   <app name="Lite" package="com.facebook.lite" />
@@ -19,12 +19,14 @@
   <app name="Opera Mini" package="com.opera.mini.android" />
   <app name="OsmAnd" package="net.osmand" />
   <app name="Pie Control" package="tk.eatheat.pie" />
+  <app name="Play Services Info" package="com.weberdo.apps.serviceinfo" />
   <app name="Power Toggles" package="com.painless.pc" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="S2E" package="ru.krikun.s2e" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="SIM Card" package="com.gsmdev.simcard" />
+  <app name="Speed Checker" package="uk.co.broadbandspeedchecker" />
   <app name="Storage Analyser" package="com.levelokment.storageanalyser" />
   <app name="Total Commander" package="com.ghisler.android.TotalCommander" />
   <app name="TotalBox plugin for Total Commander" package="sk.onkokubo.tc.dropbox" />
@@ -38,5 +40,6 @@
   <app name="UC Mini" package="com.uc.browser.en" />
   <app name="Wakelock Detector Free" package="com.uzumapps.wakelockdetector" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
+  <app name="Yatse" package="org.leetzone.android.yatsewidgetfree" />
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
 </app-list>
