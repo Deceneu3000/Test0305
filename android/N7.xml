@@ -14,7 +14,6 @@
   <app name="Ampere" package="com.gombosdev.ampere" />
   <app name="Amplify" package="com.ryansteckler.nlpunbounce" />
   <app name="Android Assistant" package="com.advancedprocessmanager" />
-  <app name="Antivirus" package="com.bitdefender.security" />
   <app name="AppChecker" package="com.kroegerama.appchecker" />
   <app name="Appstore" package="com.amazon.venezia" />
   <app name="BlueMail" package="me.bluemail.mail" />
@@ -31,6 +30,8 @@
   <app name="Camera ICS" package="com.moblynx.cameraics" />
   <app name="CatLog" package="com.nolanlawson.logcat" />
   <app name="CCleaner" package="com.piriform.ccleaner" />
+  <app name="Changelogs" package="com.thunderclouddev.changelogs" />
+  <app name="Chromer" package="arun.com.chromer" />
   <app name="Cloud Mail.Ru" package="ru.mail.cloud" />
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="Compass" package="com.gn.android.compass" />
@@ -106,7 +107,6 @@
   <app name="MX Player Codec (Tegra 3)" package="com.mxtech.ffmpeg.tegra3" />
   <app name="My App List" package="com.projectsexception.myapplist" />
   <app name="My Calc" package="com.mdroidapps.mycalc" />
-  <app name="My Tracks" package="com.google.android.maps.mytracks" />
   <app name="MyVodafone" package="ro.vodafone.mcare.android" />
   <app name="NoRoot Firewall" package="app.greyshirts.firewall" />
   <app name="Nova Launcher" package="com.teslacoilsw.launcher" />
@@ -121,10 +121,10 @@
   <app name="pCloud" package="com.pcloud.pcloud" />
   <app name="Phone Genie" package="com.apptuners.phonegenie" />
   <app name="Photos" package="com.google.android.apps.photos" />
-  <app name="Pirate Bay Browser" package="net.caffeinelab.pbb" />
   <app name="Pocket" package="com.ideashower.readitlater.pro" />
   <app name="Polycon" package="com.thearclabs.polycon" />
   <app name="Power Nap" package="net.jzhang.powernap" />
+  <app name="PowerLine" package="com.urbandroid.inline" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
   <app name="Pushbullet" package="com.pushbullet.android" />
   <app name="QR Droid Private" package="la.droid.qr.priva" />
@@ -132,12 +132,12 @@
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="QuickShortcutMaker" package="com.sika524.android.quickshortcut" />
   <app name="RAR" package="com.rarlab.rar" />
+  <app name="Renotify" package="com.liamlang.renotify" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="S Converter" package="com.SabriApps.SConverter" />
   <app name="Scoala Auto" package="com.brc.ScoalaAuto" />
   <app name="Scribd" package="com.scribd.app.reader0" />
-  <app name="SD Maid" package="eu.thedarken.sdm" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Sensor Box for Android" package="imoblife.androidsensorbox" />
   <app name="Sheets" package="com.google.android.apps.docs.editors.sheets" />
@@ -155,7 +155,6 @@
   <app name="Sync" package="com.laurencedawson.reddit_sync" />
   <app name="Sync Notes - Cloud Notepad" package="com.mkr.notes" />
   <app name="SysLog" package="com.tortel.syslog" />
-  <app name="System Monitor" package="com.p_soft.sysmon" />
   <app name="System Monitor Lite" package="com.cgollner.systemmonitor.lite" />
   <app name="TeamViewer" package="com.teamviewer.teamviewer.market.mobile" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
