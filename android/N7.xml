@@ -8,10 +8,11 @@
   <app name="AdAway" package="org.adaway" />
   <app name="ADM" package="com.dv.adm" />
   <app name="Adobe Acrobat" package="com.adobe.reader" />
+  <app name="Adobe Flash Player 11.1" package="com.adobe.flashplayer" />
   <app name="AIDA64" package="com.finalwire.aida64" />
+  <app name="AirFrozen" package="me.yourbay.airfrozen" />
   <app name="Alpha Safe Access" package="com.alpha.pass" />
   <app name="Ampere" package="com.gombosdev.ampere" />
-  <app name="Amplify" package="com.ryansteckler.nlpunbounce" />
   <app name="Android Assistant" package="com.advancedprocessmanager" />
   <app name="App Settings" package="de.robv.android.xposed.mods.appsettings" />
   <app name="AppChecker" package="com.kroegerama.appchecker" />
@@ -39,7 +40,9 @@
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="Compass" package="com.gn.android.compass" />
   <app name="Convert Everything" package="com.fluffydelusions.app.converteverything" />
+  <app name="CPU-L" package="com.ijsoft.cpul" />
   <app name="CPU-Z" package="com.cpuid.cpu_z" />
+  <app name="Cryptomator" package="org.cryptomator.beta" />
   <app name="Cryptonite" package="csh.cryptonite" />
   <app name="Default App Manager" package="com.appiator.defaultappmanager" />
   <app name="Device ID" package="com.evozi.deviceid" />
@@ -72,6 +75,7 @@
   <app name="Google Handwriting Input" package="com.google.android.apps.handwriting.ime" />
   <app name="GPS Essentials" package="com.mictale.gpsessentials" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
+  <app name="GPU-L" package="com.ijsoft.gpul" />
   <app name="GPX Viewer" package="com.vecturagames.android.app.gpxviewer" />
   <app name="GravityBox [KK]" package="com.ceco.kitkat.gravitybox" />
   <app name="Greenify" package="com.oasisfeng.greenify" />
@@ -87,6 +91,7 @@
   <app name="init.d scripts support" package="com.ryosoftware.initd" />
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="Instagram" package="com.instagram.android" />
+  <app name="Instapaper" package="com.instapaper.android" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
   <app name="JuiceSSH" package="com.sonelli.juicessh" />
   <app name="Keepass2Android Offline" package="keepass2android.keepass2android_nonet" />
@@ -94,6 +99,7 @@
   <app name="Khan Academy" package="org.khanacademy.android" />
   <app name="Kodi" package="org.xbmc.kodi" />
   <app name="Legislativ" package="ro.numedecod.android.legi" />
+  <app name="Libra Mobile" package="libra.mobile.banking" />
   <app name="Lingua.ly" package="com.lingualy.lingualymobile" />
   <app name="Link2SD" package="com.buak.Link2SD" />
   <app name="List My Apps" package="de.onyxbits.listmyapps" />
@@ -106,6 +112,7 @@
   <app name="MEGA" package="mega.privacy.android.app" />
   <app name="Memento Database" package="com.luckydroid.droidbase" />
   <app name="Memory Map" package="com.jzap.memorymap" />
+  <app name="Mercury" package="com.ilegendsoft.mercury" />
   <app name="Messenger" package="com.facebook.orca" />
   <app name="meteoblue" package="com.meteoblue.droid" />
   <app name="Moon+ Reader" package="com.flyersoft.moonreader" />
@@ -144,7 +151,6 @@
   <app name="QuickShortcutMaker" package="com.sika524.android.quickshortcut" />
   <app name="RAR" package="com.rarlab.rar" />
   <app name="Renotify" package="com.liamlang.renotify" />
-  <app name="RETRO" package="org.retro.material.icons.vintage" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="S Converter" package="com.SabriApps.SConverter" />
@@ -158,8 +164,8 @@
   <app name="Siru" package="com.dotsillustration.siru" />
   <app name="Situatia Drumurilor din Romania" package="com.shelx.situatiadrumurilor" />
   <app name="Skype" package="com.skype.raider" />
-  <app name="SManager" package="os.tools.scriptmanager" />
   <app name="Smart Recorder" package="com.andrwq.recorder" />
+  <app name="SoC-L" package="com.ijsoft.socl" />
   <app name="Solitaire" package="com.microsoft.microsoftsolitairecollection" />
   <app name="Sound Meter" package="kr.sira.sound" />
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
@@ -172,6 +178,7 @@
   <app name="Sync" package="com.laurencedawson.reddit_sync" />
   <app name="Sync Notes - Cloud Notepad" package="com.mkr.notes" />
   <app name="SysLog" package="com.tortel.syslog" />
+  <app name="SystemPanel" package="nextapp.sp" />
   <app name="TeamViewer" package="com.teamviewer.teamviewer.market.mobile" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
   <app name="The Weather Channel" package="com.weather.Weather" />
@@ -185,10 +192,10 @@
   <app name="TotalCmd-WebDAV (WEB Folders)" package="com.ghisler.tcplugins.WebDAV" />
   <app name="TotalCmd-Wifi Transfer" package="com.ghisler.tcplugins.wifitransfer" />
   <app name="Totalcmd-Windows Live OneDrive" package="com.ghisler.tcplugins.WindowsLive" />
-  <app name="TrainStation" package="air.com.pixelfederation.TrainStationGame" />
   <app name="Translate" package="com.google.android.apps.translate" />
   <app name="Translator" package="com.microsoft.translator" />
   <app name="Transport Urban" package="com.indyvision.transport.transporturban" />
+  <app name="TrenulMeu Mobile" package="ro.trenulmeu.mobile" />
   <app name="Trickster MOD" package="com.bigeyes0x0.trickstermod" />
   <app name="Tumblr" package="com.tumblr" />
   <app name="TunnelBear" package="com.tunnelbear.android" />
@@ -213,7 +220,6 @@
   <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="X-plore" package="com.lonelycatgames.Xplore" />
   <app name="Xposed Installer" package="de.robv.android.xposed.installer" />
-  <app name="Yaffs Explorer" package="fr.wdscript.yaffsexplorer" />
   <app name="Yandex.Disk" package="ru.yandex.disk" />
   <app name="YouTube" package="com.google.android.youtube" />
   <app name="YouTube Background Playback" package="com.pyler.youtubebackgroundplayback" />
@@ -221,5 +227,4 @@
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
   <app name="ZIPme" package="zip.me" />
   <app name="Zoom For Instagram" package="com.Taptigo.XposedModules.IgZoom" />
-  <app name="µTorrent" package="com.utorrent.client" />
 </app-list>
