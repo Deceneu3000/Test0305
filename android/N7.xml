@@ -1,83 +1,71 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <app-list>
   <app name="/system/app mover" package="de.j4velin.systemappmover" />
-  <app name="100 Ballz" package="com.freaxator.game100balls" />
-  <app name="2048 Puzzle" package="com.estoty.game2048" />
-  <app name="360 Security" package="com.qihoo.security" />
   <app name="3C Toolbox" package="ccc71.at.free" />
+  <app name="500px" package="com.fivehundredpx.viewer" />
   <app name="920 Text Editor" package="com.jecelyin.editor" />
   <app name="9GAG" package="com.ninegag.android.app" />
   <app name="AccuWeather" package="com.accuweather.android" />
   <app name="AdAway" package="org.adaway" />
-  <app name="AdBlock Add-on" package="com.NeedForSpeed.ToolKit.AdBlock" />
   <app name="ADM" package="com.dv.adm" />
   <app name="Adobe Acrobat" package="com.adobe.reader" />
   <app name="Adobe Flash Player 11.1" package="com.adobe.flashplayer" />
   <app name="AIDA64" package="com.finalwire.aida64" />
-  <app name="Alchemy" package="me.zed_0xff.android.alchemy" />
   <app name="Alpha Safe Access" package="com.alpha.pass" />
   <app name="Ampere" package="com.gombosdev.ampere" />
-  <app name="AndroBench" package="com.andromeda.androbench2" />
+  <app name="Amplify" package="com.ryansteckler.nlpunbounce" />
   <app name="Android Assistant" package="com.advancedprocessmanager" />
-  <app name="Apex Launcher" package="com.anddoes.launcher" />
-  <app name="App List Backup" package="com.punsoftware.backup" />
-  <app name="Backgammon Free" package="uk.co.aifactory.backgammonfree" />
-  <app name="Battery" package="ch.smalltech.battery.free" />
-  <app name="Battle Chinese Checkers" package="com.sohomob.android.chinese_checkers" />
-  <app name="Blackjack" package="com.genina.android.blackjack.view" />
+  <app name="Antivirus" package="com.bitdefender.security" />
+  <app name="Appstore" package="com.amazon.venezia" />
+  <app name="Bitcasa Drive" package="com.bitcasa.android.drive" />
+  <app name="BlueMail" package="me.bluemail.mail" />
   <app name="Bluetooth ToolKit" package="com.android.xposed.finaly.bluetoothunlock" />
   <app name="BootManager" package="de.defim.apk.bootmanager" />
   <app name="Box" package="com.box.android" />
-  <app name="Boxcryptor Classic" package="com.boxcryptor.android" />
+  <app name="Boxcryptor" package="com.boxcryptor2.android" />
+  <app name="BradyBound" package="com.oxplot.bradybound" />
   <app name="Bucharest Metro Guide" package="ssh.project.metrorex" />
   <app name="Burnt Toast" package="com.mohammadag.burnttoast" />
   <app name="BusyBox Free" package="stericson.busybox" />
   <app name="Calendar Ortodox" package="ro.dcgavril.calendarortodox" />
   <app name="Camera ICS" package="com.moblynx.cameraics" />
-  <app name="Category Quiz" package="hmas.category.quiz" />
   <app name="CatLog" package="com.nolanlawson.logcat" />
-  <app name="Chess Free" package="uk.co.aifactory.chessfree" />
-  <app name="Clean Master" package="com.cleanmaster.mguard" />
+  <app name="CCleaner" package="com.piriform.ccleaner" />
   <app name="Cloud Mail.Ru" package="ru.mail.cloud" />
-  <app name="CM Security" package="com.cleanmaster.security" />
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
-  <app name="Contract Whist" package="com.qsoft.android.whist" />
+  <app name="Compass" package="com.gn.android.compass" />
   <app name="Convert Everything" package="com.fluffydelusions.app.converteverything" />
+  <app name="Copy" package="com.copy" />
   <app name="CPU-Z" package="com.cpuid.cpu_z" />
   <app name="Cryptonite" package="csh.cryptonite" />
   <app name="Default App Manager" package="com.appiator.defaultappmanager" />
   <app name="Device ID" package="com.evozi.deviceid" />
+  <app name="Digi.Online" package="ro.rcsrds.digionline" />
   <app name="DisableService" package="cn.wq.disableservice" />
   <app name="DiskUsage" package="com.google.android.diskusage" />
   <app name="Display Tester" package="com.gombosdev.displaytester" />
   <app name="Docs" package="com.google.android.apps.docs.editors.docs" />
-  <app name="Dolphin" package="mobi.mgeek.TunnyBrowser" />
-  <app name="Domino!" package="com.flyclops.domino.android" />
   <app name="DonkeyGuard" package="eu.donkeyguard" />
-  <app name="Dope Wars" package="fr.odupont.android.dopewars" />
   <app name="Drippler" package="com.drippler.android.updates" />
   <app name="DroidWall" package="com.googlecode.droidwall.free" />
   <app name="Dropbox" package="com.dropbox.android" />
-  <app name="DSploit" package="it.evilsocket.dsploit" />
   <app name="DVRplayer" package="com.HBplayer" />
+  <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="eMAG" package="ro.emag.android" />
+  <app name="ES Classic Theme" package="com.estrongs.android.pop.classic.material" />
   <app name="ES File Explorer" package="com.estrongs.android.pop" />
   <app name="ES Permission Manager" package="com.estrongs.android.permmgrservice" />
   <app name="ES Task Manager" package="com.estrongs.android.taskmanager" />
   <app name="F-Droid" package="org.fdroid.fdroid" />
   <app name="Facebook" package="com.facebook.katana" />
   <app name="Feroviar" package="ro.wip.trenuri" />
+  <app name="FFmpeg Media Encoder" package="com.silentlexx.ffmpeggui" />
   <app name="Fing - Network Tools" package="com.overlook.android.fing" />
   <app name="Firefox" package="org.mozilla.firefox" />
-  <app name="FKUpdater Free" package="com.franco.kernel.free" />
-  <app name="Flashify" package="com.cgollner.flashify" />
   <app name="Flickr" package="com.yahoo.mobile.client.android.flickr" />
   <app name="Foxit PDF" package="com.foxit.mobile.pdf.lite" />
-  <app name="Frozen Bubble" package="org.jfedor.frozenbubble" />
-  <app name="Fruit Cocktail Slots" package="ru.funapps.games.frutcoctail" />
-  <app name="Galaxy S5 Theme" package="com.al33m.galaxys5.theme" />
-  <app name="Garage Slots" package="ru.funapps.games.garage" />
-  <app name="Google PDF Viewer" package="com.google.android.apps.pdfviewer" />
+  <app name="Gesture Search" package="com.google.android.apps.gesturesearch" />
+  <app name="Google Handwriting Input" package="com.google.android.apps.handwriting.ime" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
   <app name="GPX Viewer" package="com.vecturagames.android.app.gpxviewer" />
   <app name="GravityBox [KK]" package="com.ceco.kitkat.gravitybox" />
@@ -85,36 +73,31 @@
   <app name="GSam Battery Monitor" package="com.gsamlabs.bbm" />
   <app name="Hacker's Keyboard" package="org.pocketworkstation.pckeyboard" />
   <app name="Hash Droid" package="com.hobbyone.HashDroid" />
-  <app name="Hearts Free" package="uk.co.aifactory.heartsfree" />
+  <app name="HaveOwnOrientation" package="de.defim.apk.haveownorientation" />
+  <app name="Holo Theme" package="com.estrongs.android.pop.theme.ics" />
   <app name="IMDb" package="com.imdb.mobile" />
   <app name="Inbox" package="com.google.android.apps.inbox" />
   <app name="init.d scripts support" package="com.ryosoftware.initd" />
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="Instagram" package="com.instagram.android" />
-  <app name="Jewels 2" package="org.mhgames.jewels2" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
+  <app name="JuiceSSH" package="com.sonelli.juicessh" />
   <app name="Keepass2Android Offline" package="keepass2android.keepass2android_nonet" />
   <app name="Kernel Tweaker" package="com.dsht.kerneltweaker" />
+  <app name="Khan Academy" package="org.khanacademy.android" />
   <app name="Kodi" package="org.xbmc.kodi" />
-  <app name="Lazors" package="net.pyrosphere.lazors" />
-  <app name="Lazy Swipe" package="com.lazyswipe" />
   <app name="Legislativ" package="ro.numedecod.android.legi" />
   <app name="Lingua.ly" package="com.lingualy.lingualymobile" />
   <app name="List My Apps" package="de.onyxbits.listmyapps" />
+  <app name="Lite" package="com.facebook.lite" />
   <app name="LiveBoot" package="eu.chainfire.liveboot" />
-  <app name="Lockscreen Tweakbox" package="com.hamzah.lockscreentweakbox" />
-  <app name="Locus Free" package="menion.android.locus" />
-  <app name="Lucky Patcher" package="com.android.vending.billing.InAppBillingService.LUCK" />
-  <app name="Mahjong" package="com.nix.game.mahjong" />
+  <app name="Locus Map Free" package="menion.android.locus" />
   <app name="Maps" package="com.google.android.apps.maps" />
   <app name="mb-weather" package="ch.daca.meteoblue" />
+  <app name="MEGA" package="nz.mega.android" />
   <app name="Memory Map" package="com.jzap.memorymap" />
   <app name="Messenger" package="com.facebook.orca" />
-  <app name="Mind Games" package="mindware.mindgames" />
-  <app name="Minimalistic Text" package="de.devmil.minimaltext" />
   <app name="Moon+ Reader" package="com.flyersoft.moonreader" />
-  <app name="MoonBase Object" package="jeu.de.marc" />
-  <app name="Moonshine" package="nexbit.icons.moonshine" />
   <app name="MultiROM Manager" package="com.tassadar.multirommgr" />
   <app name="Munții Noștri" package="com.mountains" />
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
@@ -122,102 +105,92 @@
   <app name="My App List" package="com.projectsexception.myapplist" />
   <app name="My Calc" package="com.mdroidapps.mycalc" />
   <app name="My Tracks" package="com.google.android.maps.mytracks" />
-  <app name="Next Browser" package="com.jiubang.browser" />
   <app name="NoRoot Firewall" package="app.greyshirts.firewall" />
   <app name="Nova Launcher" package="com.teslacoilsw.launcher" />
-  <app name="Okey" package="com.ahoygames.okey" />
   <app name="OneDrive" package="com.microsoft.skydrive" />
   <app name="Onefootball" package="de.motain.iliga" />
   <app name="OneNote" package="com.microsoft.office.onenote" />
   <app name="OpenVPN Connect" package="net.openvpn.openvpn" />
   <app name="Opera" package="com.opera.browser" />
+  <app name="Opera Max" package="com.opera.max.global" />
   <app name="OsmAnd" package="net.osmand" />
   <app name="OSMTracker for Android™" package="me.guillaumin.android.osmtracker" />
-  <app name="ownCloud" package="com.owncloud.android" />
-  <app name="PAC-MAN" package="com.namcobandaigames.pacmantournaments" />
   <app name="Phone Genie" package="com.apptuners.phonegenie" />
-  <app name="Pinball" package="com.nix.game.pinball.free" />
+  <app name="Photos" package="com.google.android.apps.photos" />
   <app name="Pirate Bay Browser" package="net.caffeinelab.pbb" />
-  <app name="Pool Billiards Pro" package="com.forthblue.pool" />
-  <app name="Posturi TV Româneşti" package="org.roel.romaniatvonline" />
+  <app name="Pocket" package="com.ideashower.readitlater.pro" />
+  <app name="Power Nap" package="net.jzhang.powernap" />
   <app name="Pushbullet" package="com.pushbullet.android" />
-  <app name="PVSTAR+" package="jp.co.asbit.pvstar" />
   <app name="QR Droid Private" package="la.droid.qr.priva" />
-  <app name="Quell" package="com.fallentreegames.quellfree" />
   <app name="Quick Boot" package="com.siriusapplications.quickboot" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
-  <app name="RadioTunes" package="com.audioaddict.sky" />
   <app name="RAR" package="com.rarlab.rar" />
-  <app name="Rat On The Run" package="com.donutgames.ratontherun" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
-  <app name="Root App Delete" package="zsj.android.systemappremover" />
-  <app name="Rufus" package="com.benx9.poppy" />
+  <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="S Converter" package="com.SabriApps.SConverter" />
-  <app name="Scrambled Net" package="org.hermit.netscramble" />
+  <app name="Scoala Auto" package="com.brc.ScoalaAuto" />
+  <app name="Scribd" package="com.scribd.app.reader0" />
   <app name="SD Maid" package="eu.thedarken.sdm" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Sensor Box for Android" package="imoblife.androidsensorbox" />
-  <app name="Septica" package="ro.bgx.septica" />
-  <app name="Shadow Icons" package="com.ray.shadow.free" />
-  <app name="SimCity" package="com.ea.game.simcitymobile_row" />
+  <app name="Sheets" package="com.google.android.apps.docs.editors.sheets" />
   <app name="Skype" package="com.skype.raider" />
-  <app name="Slot Machine" package="com.apostek.SlotMachine" />
   <app name="SManager" package="os.tools.scriptmanager" />
   <app name="Smart AppLock" package="com.sp.protector.free" />
   <app name="Smart Voice Recorder" package="com.andrwq.recorder" />
-  <app name="Solitaire Free Pack" package="com.tesseractmobile.solitairefreepack" />
   <app name="Sound Meter" package="kr.sira.sound" />
-  <app name="Spanzuratoare" package="com.cioraneanu.spanzuratoare" />
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="StickMount" package="eu.chainfire.stickmount" />
-  <app name="Sudoku 2Go" package="com.googlecode.andoku" />
   <app name="Sunrise Sunset" package="com.alokmandavgane.sunrisesunset" />
+  <app name="Sunshine Icon Pack" package="com.samymarboy.theme.sunshine" />
+  <app name="SurfEasy" package="com.surfeasy" />
   <app name="SwiftKey Keyboard" package="com.touchtype.swiftkey" />
   <app name="SwissArmyKnife" package="com.digital_and_dreams.android.swiss_army_knife" />
+  <app name="Sync" package="com.laurencedawson.reddit_sync" />
   <app name="Sync Notes - Notepad" package="com.mkr.notes" />
-  <app name="Tablic" package="cum.dr.mega" />
-  <app name="Te crezi destept? FREE" package="com.happyfacedevs.tecrezidestept" />
+  <app name="SysLog" package="com.tortel.syslog" />
+  <app name="System Monitor" package="com.p_soft.sysmon" />
+  <app name="System Monitor Lite" package="com.cgollner.systemmonitor.lite" />
   <app name="TeamViewer" package="com.teamviewer.teamviewer.market.mobile" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
-  <app name="The Drug Lord Free" package="uk.co.thedruglordfree" />
   <app name="The Weather Channel" package="com.weather.Weather" />
   <app name="Titanium Backup" package="com.keramidas.TitaniumBackup" />
   <app name="Total Commander" package="com.ghisler.android.TotalCommander" />
   <app name="TotalBox plugin for Total Commander" package="sk.onkokubo.tc.dropbox" />
   <app name="Totalcmd-Drive" package="com.ghisler.tcplugins.drive" />
   <app name="TotalCmd-FTP (File Transfers)" package="com.ghisler.tcplugins.FTP" />
+  <app name="TotalCmd-SFTP" package="com.ghisler.tcplugins.SFTP" />
   <app name="TotalCmd-WebDAV (WEB Folders)" package="com.ghisler.tcplugins.WebDAV" />
   <app name="TotalCmd-Wifi Transfer" package="com.ghisler.tcplugins.wifitransfer" />
   <app name="Totalcmd-Windows Live OneDrive" package="com.ghisler.tcplugins.WindowsLive" />
-  <app name="TowerBloxx My City" package="com.digitalchocolate.androiddistrict" />
   <app name="Translate" package="com.google.android.apps.translate" />
   <app name="Trickster MOD" package="com.bigeyes0x0.trickstermod" />
   <app name="Tumblr" package="com.tumblr" />
+  <app name="TunnelBear" package="com.tunnelbear.android" />
   <app name="TweetCaster" package="com.handmark.tweetcaster" />
   <app name="TWRP Theme Manager" package="it.scumpinatos.twrpthememanager.main" />
   <app name="UC Browser HD" package="com.uc.browser.hd" />
-  <app name="Ultimate Flag" package="mobi.mgeek.UltimateFlag" />
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
   <app name="USB OTG Helper" package="net.shajul.usbotg" />
   <app name="VimCheatSheet" package="com.markino.vimcheatsheet" />
   <app name="VLC" package="org.videolan.vlc.betav7neon" />
-  <app name="Wakelock Detector" package="com.uzumapps.wakelockdetector" />
+  <app name="Wakelock Detector Free" package="com.uzumapps.wakelockdetector" />
   <app name="Walloid" package="com.hashcode.walloid" />
-  <app name="Warmux" package="org.warmux" />
-  <app name="Weather" package="com.yahoo.mobile.client.android.weather" />
   <app name="Weather" package="com.wunderground.android.weather" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
   <app name="Wifi Connecter Library" package="com.farproc.wifi.connecter" />
   <app name="WiFi Key Recovery" package="aws.apps.wifiKeyRecovery" />
   <app name="Wikipedia" package="org.wikipedia" />
   <app name="Winamp" package="com.nullsoft.winamp" />
-  <app name="WPS Office (Kingsoft Office)" package="cn.wps.moffice_eng" />
+  <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="Xposed Installer" package="de.robv.android.xposed.installer" />
   <app name="Yaffs Explorer" package="fr.wdscript.yaffsexplorer" />
-  <app name="Yahoo Mail" package="com.yahoo.mobile.client.android.mail" />
+  <app name="Yandex.Disk" package="ru.yandex.disk" />
   <app name="YouTube" package="com.google.android.youtube" />
+  <app name="YouTube Background Playback" package="com.pyler.youtubebackgroundplayback" />
   <app name="YouTube Downloader" package="dentex.youtube.downloader" />
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
   <app name="ZIPme" package="zip.me" />
+  <app name="Zoom For Instagram" package="com.Taptigo.XposedModules.IgZoom" />
   <app name="µTorrent" package="com.utorrent.client" />
 </app-list>
