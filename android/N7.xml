@@ -8,12 +8,12 @@
   <app name="AdAway" package="org.adaway" />
   <app name="ADM" package="com.dv.adm" />
   <app name="Adobe Acrobat" package="com.adobe.reader" />
-  <app name="Adobe Flash Player 11.1" package="com.adobe.flashplayer" />
   <app name="AIDA64" package="com.finalwire.aida64" />
   <app name="AirFrozen" package="me.yourbay.airfrozen" />
   <app name="Alpha Safe Access" package="com.alpha.pass" />
   <app name="Ampere" package="com.gombosdev.ampere" />
   <app name="Android Assistant" package="com.advancedprocessmanager" />
+  <app name="App Cloner" package="com.applisto.appcloner" />
   <app name="App Settings" package="de.robv.android.xposed.mods.appsettings" />
   <app name="AppChecker" package="com.kroegerama.appchecker" />
   <app name="AppLock" package="com.sp.protector.free" />
@@ -65,7 +65,6 @@
   <app name="ES Task Manager" package="com.estrongs.android.taskmanager" />
   <app name="F-Droid" package="org.fdroid.fdroid" />
   <app name="Facebook" package="com.facebook.katana" />
-  <app name="Feroviar" package="ro.wip.trenuri" />
   <app name="FFmpeg Media Encoder" package="com.silentlexx.ffmpeggui" />
   <app name="Fing" package="com.overlook.android.fing" />
   <app name="Firefox" package="org.mozilla.firefox" />
@@ -79,6 +78,7 @@
   <app name="GPX Viewer" package="com.vecturagames.android.app.gpxviewer" />
   <app name="GravityBox [KK]" package="com.ceco.kitkat.gravitybox" />
   <app name="Greenify" package="com.oasisfeng.greenify" />
+  <app name="GSam - TB Icon Pack" package="com.touchboarder.materialcolor.bbmiconpack" />
   <app name="GSam Battery Monitor" package="com.gsamlabs.bbm" />
   <app name="Hacker's Keyboard" package="org.pocketworkstation.pckeyboard" />
   <app name="Hash Droid" package="com.hobbyone.HashDroid" />
@@ -125,6 +125,7 @@
   <app name="MyDigi" package="ro.rcsrds.mydigi" />
   <app name="MyVodafone" package="ro.vodafone.mcare.android" />
   <app name="NoRoot Firewall" package="app.greyshirts.firewall" />
+  <app name="Norton Mobile Security" package="com.symantec.mobilesecurity" />
   <app name="Nova Launcher" package="com.teslacoilsw.launcher" />
   <app name="Nova Launcher Prime" package="com.teslacoilsw.launcher.prime" />
   <app name="OneDrive" package="com.microsoft.skydrive" />
@@ -139,11 +140,11 @@
   <app name="pCloud" package="com.pcloud.pcloud" />
   <app name="Phone Genie" package="com.apptuners.phonegenie" />
   <app name="Photos" package="com.google.android.apps.photos" />
+  <app name="Play Services Info" package="com.weberdo.apps.serviceinfo" />
   <app name="Pocket" package="com.ideashower.readitlater.pro" />
   <app name="Power Nap" package="net.jzhang.powernap" />
   <app name="PowerLine" package="com.urbandroid.inline" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
-  <app name="Puffin" package="com.cloudmosa.puffinFree" />
   <app name="Pushbullet" package="com.pushbullet.android" />
   <app name="QR Droid Private" package="la.droid.qr.priva" />
   <app name="Quick Boot" package="com.siriusapplications.quickboot" />
@@ -151,6 +152,7 @@
   <app name="QuickShortcutMaker" package="com.sika524.android.quickshortcut" />
   <app name="RAR" package="com.rarlab.rar" />
   <app name="Renotify" package="com.liamlang.renotify" />
+  <app name="Ringtone Maker" package="com.herman.ringtone" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="S Converter" package="com.SabriApps.SConverter" />
@@ -217,6 +219,7 @@
   <app name="Wikipedia" package="org.wikipedia" />
   <app name="Winamp" package="com.nullsoft.winamp" />
   <app name="Windyty" package="com.windyty.android" />
+  <app name="Wireless Adapter" package="com.toshiba.adapter.cloud" />
   <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="X-plore" package="com.lonelycatgames.Xplore" />
   <app name="Xposed Installer" package="de.robv.android.xposed.installer" />
