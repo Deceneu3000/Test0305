@@ -1,39 +1,48 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <app-list>
+  <app name="aCalendar" package="org.withouthat.acalendar" />
   <app name="AdAway" package="org.adaway" />
   <app name="Adobe Reader" package="com.adobe.reader" />
   <app name="Barcode Scanner" package="com.google.zxing.client.android" />
-  <app name="Calendar" package="com.google.android.calendar" />
+  <app name="Bluetooth ToolKit" package="com.android.xposed.finaly.bluetoothunlock" />
   <app name="Camera" package="com.google.android.GoogleCamera" />
   <app name="Email" package="com.google.android.email" />
   <app name="Exchange Services" package="com.google.android.exchange" />
-  <app name="Fast" package="app.fastfacebook.com" />
   <app name="Gallery" package="com.google.android.gallery3d" />
   <app name="Glimmr" package="com.bourke.glimmr" />
   <app name="Google Play services" package="com.google.android.gms" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
   <app name="Greenify" package="com.oasisfeng.greenify" />
+  <app name="Holo Launcher HD" package="com.mobint.hololauncher.hd" />
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
   <app name="Keep" package="com.google.android.keep" />
   <app name="KeePassDroid" package="com.android.keepass" />
+  <app name="Lite" package="com.facebook.lite" />
+  <app name="Multi Users" package="droidmate.multiuser.xposed" />
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
   <app name="My App List" package="com.projectsexception.myapplist" />
-  <app name="net.osmand" package="net.osmand" />
+  <app name="MyVodafone" package="ro.vodafone.mcare.android" />
+  <app name="Naked Browser" package="com.fevdev.nakedbrowser" />
   <app name="Network Signal Info" package="de.android.telnet" />
   <app name="Nova Launcher" package="com.teslacoilsw.launcher" />
+  <app name="Opera Mini" package="com.opera.mini.android" />
+  <app name="OsmAnd" package="net.osmand" />
   <app name="Pushbullet" package="com.pushbullet.android" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Storage Analyser" package="com.levelokment.storageanalyser" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
+  <app name="Textra" package="com.textra" />
   <app name="Total Commander" package="com.ghisler.android.TotalCommander" />
   <app name="TotalBox plugin for Total Commander" package="sk.onkokubo.tc.dropbox" />
   <app name="Totalcmd-Drive" package="com.ghisler.tcplugins.drive" />
   <app name="Tweedle" package="com.handlerexploit.tweedle" />
   <app name="Wakelock Detector" package="com.uzumapps.wakelockdetector" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
+  <app name="Winamp" package="com.nullsoft.winamp" />
+  <app name="Xposed Installer" package="de.robv.android.xposed.installer" />
   <app name="YouTube" package="com.google.android.youtube" />
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
   <app name="ZIPme" package="zip.me" />
