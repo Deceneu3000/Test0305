@@ -1,45 +1,41 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <app-list>
-  <app name="Adobe Acrobat" package="com.adobe.reader" />
+  <app name="aCalendar" package="org.withouthat.acalendar" />
   <app name="Ampere" package="com.gombosdev.ampere" />
   <app name="Apex Launcher" package="com.anddoes.launcher" />
+  <app name="AppMgr III" package="com.a0soft.gphone.app2sd" />
   <app name="Cloud Mail.Ru" package="ru.mail.cloud" />
-  <app name="Copy" package="com.copy" />
+  <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="CPU-Z" package="com.cpuid.cpu_z" />
   <app name="Digi.Online" package="ro.rcsrds.digionline" />
   <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="FlickrBot" package="tw.clotai.flickrbot" />
-  <app name="GPS Test" package="com.chartcross.gpstest" />
+  <app name="Google PDF Viewer" package="com.google.android.apps.pdfviewer" />
   <app name="Greenify" package="com.oasisfeng.greenify" />
   <app name="GSam Battery Monitor" package="com.gsamlabs.bbm" />
-  <app name="Holo Theme" package="com.estrongs.android.pop.theme.ics" />
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="Instagram" package="com.instagram.android" />
   <app name="Internet Speed Meter Lite" package="com.internet.speed.meter.lite" />
+  <app name="K-9 Mail" package="com.fsck.k9" />
   <app name="KeePassDroid" package="com.android.keepass" />
   <app name="Lite" package="com.facebook.lite" />
-  <app name="MAPS.ME" package="com.mapswithme.maps.pro" />
-  <app name="MEGA" package="nz.mega.android" />
-  <app name="MoveToSdcard" package="com.ljmobile.move.app" />
+  <app name="MEGA" package="mega.privacy.android.app" />
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
   <app name="My App List" package="com.projectsexception.myapplist" />
-  <app name="OfficeSuite" package="com.mobisystems.office" />
-  <app name="Omni Notes" package="it.feio.android.omninotes" />
   <app name="Opera Mini" package="com.opera.mini.native" />
   <app name="OsmAnd" package="net.osmand" />
-  <app name="Power Toggles" package="com.painless.pc" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="ROM Toolbox Lite" package="com.jrummy.liberty.toolbox" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
-  <app name="Skype" package="com.skype.raider" />
+  <app name="SpeakerBoost" package="mobi.omegacentauri.SpeakerBoost" />
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
-  <app name="Street View" package="com.google.android.street" />
-  <app name="Subtle" package="com.bhawani.subtle" />
   <app name="Tweedle" package="com.handlerexploit.tweedle" />
   <app name="UC Mini" package="com.uc.browser.en" />
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
   <app name="Winamp" package="com.nullsoft.winamp" />
+  <app name="WPS Office" package="cn.wps.moffice_eng" />
+  <app name="X-plore" package="com.lonelycatgames.Xplore" />
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
   <app name="Zoom For Instagram" package="com.Taptigo.ZoomFI" />
 </app-list>
