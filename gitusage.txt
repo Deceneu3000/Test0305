@@ -5,5 +5,7 @@ git status
 git add newfile.ext
 git commit -m "commit message"
 git push origin master
+
 git log
+git HEAD
 
