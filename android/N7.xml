@@ -10,6 +10,7 @@
   <app name="Adobe Acrobat" package="com.adobe.reader" />
   <app name="Age of Civilizations Lite" package="age.of.civilizations.jakowski.lite" />
   <app name="Airfrozen" package="me.yourbay.airfrozen" />
+  <app name="All-In-One Calculator" package="all.in.one.calculator" />
   <app name="Alpha Safe Access" package="com.alpha.pass" />
   <app name="Ampere" package="com.gombosdev.ampere" />
   <app name="App Cloner" package="com.applisto.appcloner" />
@@ -37,11 +38,8 @@
   <app name="Cloud Mail.Ru" package="ru.mail.cloud" />
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="Compass" package="com.gn.android.compass" />
-  <app name="Convert Everything" package="com.fluffydelusions.app.converteverything" />
-  <app name="CPU Throttling Test" package="skynet.cputhrottlingtest" />
   <app name="CPU-L" package="com.ijsoft.cpul" />
   <app name="CPU-Z" package="com.cpuid.cpu_z" />
-  <app name="Cryptomator" package="org.cryptomator.beta" />
   <app name="Cryptonite" package="csh.cryptonite" />
   <app name="Default App Manager" package="com.appiator.defaultappmanager" />
   <app name="Device ID" package="com.evozi.deviceid" />
@@ -51,13 +49,12 @@
   <app name="DisableService" package="cn.wq.disableservice" />
   <app name="DiskUsage" package="com.google.android.diskusage" />
   <app name="Display Tester" package="com.gombosdev.displaytester" />
-  <app name="Docs" package="com.google.android.apps.docs.editors.docs" />
   <app name="DonkeyGuard" package="eu.donkeyguard" />
   <app name="Drippler" package="com.drippler.android.updates" />
   <app name="DroidWall" package="com.googlecode.droidwall.free" />
   <app name="Dropbox" package="com.dropbox.android" />
   <app name="DSU" package="ro.iconsult.dsu" />
-  <app name="DVRplayer" package="com.HBplayer" />
+  <app name="DuckDuckGo" package="com.duckduckgo.mobile.android" />
   <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="eMAG" package="ro.emag.android" />
   <app name="engiemobile" package="ro.engie.agentia" />
@@ -72,6 +69,7 @@
   <app name="Foxit PDF" package="com.foxit.mobile.pdf.lite" />
   <app name="Gem Miner: Dig Deeper" package="au.com.phil.mine" />
   <app name="Gesture Search" package="com.google.android.apps.gesturesearch" />
+  <app name="GetTube" package="com.dsm.gettube" />
   <app name="Google Handwriting Input" package="com.google.android.apps.handwriting.ime" />
   <app name="GPS Essentials" package="com.mictale.gpsessentials" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
@@ -94,7 +92,6 @@
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="Instagram" package="com.instagram.android" />
   <app name="Instapaper" package="com.instapaper.android" />
-  <app name="Internet Speed Meter" package="com.glitter.internetmeter" />
   <app name="IP Tools" package="com.ddm.iptools" />
   <app name="IPTVRO.PRO Live TV" package="com.app.iptvropro" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
@@ -133,7 +130,6 @@
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
   <app name="MX Player Codec (Tegra 3)" package="com.mxtech.ffmpeg.tegra3" />
   <app name="My App List" package="com.projectsexception.myapplist" />
-  <app name="My Calc" package="com.mdroidapps.mycalc" />
   <app name="MyCarrefour" package="ro.carrefour.mycarrefour" />
   <app name="MyDigi" package="ro.rcsrds.mydigi" />
   <app name="MyVodafone" package="ro.vodafone.mcare.android" />
@@ -175,7 +171,6 @@
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Sensor Box for Android" package="imoblife.androidsensorbox" />
   <app name="Service Disabler" package="com.kunkunsoft.rootservicedisabler" />
-  <app name="Sheets" package="com.google.android.apps.docs.editors.sheets" />
   <app name="SimCity" package="com.ea.game.simcitymobile_row" />
   <app name="Situatia Drumurilor din Romania" package="com.shelx.situatiadrumurilor" />
   <app name="Smart Recorder" package="com.andrwq.recorder" />
