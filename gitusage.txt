@@ -9,3 +9,4 @@ git push origin master
 git log
 git HEAD
 
+git pull --rebase
