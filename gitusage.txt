@@ -13,3 +13,5 @@ git pull --rebase
 
 **view last version changes**
 git show
+**view changes between versions**
+git log -p file
