@@ -23,6 +23,7 @@
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
   <app name="My APK" package="com.andatsoft.myapk.fwa" />
   <app name="My App List" package="com.projectsexception.myapplist" />
+  <app name="NewPipe" package="org.schabi.newpipe" />
   <app name="Opera Mini" package="com.opera.mini.native" />
   <app name="OsmAnd" package="net.osmand" />
   <app name="PDF Reader" package="com.gappstudios.autowifi3gdataswitch.san.basicpdfviewer" />
@@ -37,7 +38,6 @@
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
   <app name="Wifi Connecter Library" package="com.farproc.wifi.connecter" />
-  <app name="Winamp" package="com.nullsoft.winamp" />
   <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="X-plore" package="com.lonelycatgames.Xplore" />
   <app name="Yalp Store" package="com.github.yeriomin.yalpstore" />
