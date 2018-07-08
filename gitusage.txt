@@ -10,3 +10,6 @@ git log
 git HEAD
 
 git pull --rebase
+
+**view last version changes**
+git show
