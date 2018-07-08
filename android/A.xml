@@ -26,7 +26,7 @@
   <app name="NewPipe" package="org.schabi.newpipe" />
   <app name="Opera Mini" package="com.opera.mini.native" />
   <app name="OsmAnd" package="net.osmand" />
-  <app name="PDF Reader" package="com.gappstudios.autowifi3gdataswitch.san.basicpdfviewer" />
+  <app name="PDF Reader" package="pdf.reader" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="SopCast" package="org.sopcast.android" />
@@ -34,7 +34,6 @@
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="Swipe" package="com.happening.studios.swipeforfacebookfree" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
-  <app name="UC Mini" package="com.uc.browser.en" />
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
   <app name="Wifi Connecter Library" package="com.farproc.wifi.connecter" />
