@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <app-list>
   <app name="aCalendar" package="org.withouthat.acalendar" />
+  <app name="AdZHosts DNSFilter" package="dnsfilter.android" />
   <app name="Ampere Meter" package="zaka.com.amperemeter" />
   <app name="Apex Launcher" package="com.anddoes.launcher" />
   <app name="Brave" package="com.brave.browser" />
@@ -26,7 +27,9 @@
   <app name="NewPipe" package="org.schabi.newpipe" />
   <app name="Opera Mini" package="com.opera.mini.native" />
   <app name="OsmAnd" package="net.osmand" />
-  <app name="PDF Reader" package="pdf.reader" />
+  <app name="OsmAnd Contour lines" package="net.osmand.srtmPlugin.paid" />
+  <app name="PDF Reader" package="classic.pdf.reader.viewer.djvu.epub.fb2.txt.mobi.book.reader.lirbi.libri" />
+  <app name="PlanMaker Mobile Free" package="softmaker.applications.planmakertrial" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="SopCast" package="org.sopcast.android" />
@@ -34,10 +37,10 @@
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="Swipe" package="com.happening.studios.swipeforfacebookfree" />
   <app name="Terminal Emulator" package="jackpal.androidterm" />
+  <app name="TextMaker Mobile Free" package="softmaker.applications.textmakertrial" />
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
   <app name="Wifi Analyzer" package="com.farproc.wifi.analyzer" />
   <app name="Wifi Connecter Library" package="com.farproc.wifi.connecter" />
-  <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="X-plore" package="com.lonelycatgames.Xplore" />
   <app name="Yalp Store" package="com.github.yeriomin.yalpstore" />
   <app name="ZArchiver" package="ru.zdevs.zarchiver" />
