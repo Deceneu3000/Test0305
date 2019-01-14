@@ -8,6 +8,7 @@
   <app name="AdAway" package="org.adaway" />
   <app name="ADM" package="com.dv.adm" />
   <app name="Adobe Acrobat" package="com.adobe.reader" />
+  <app name="AFWall+" package="dev.ukanth.ufirewall" />
   <app name="Age of Civilizations Lite" package="age.of.civilizations.jakowski.lite" />
   <app name="Airfrozen" package="me.yourbay.airfrozen" />
   <app name="Alpha Safe Access" package="com.alpha.pass" />
@@ -19,7 +20,6 @@
   <app name="AppLock" package="com.sp.protector.free" />
   <app name="AppSales" package="net.tsapps.appsales" />
   <app name="Awesome Icons" package="com.momocode.shortcuts" />
-  <app name="BlueMail" package="me.bluemail.mail" />
   <app name="Bluetooth ToolKit" package="com.android.xposed.finaly.bluetoothunlock" />
   <app name="BootManager" package="de.defim.apk.bootmanager" />
   <app name="Box" package="com.box.android" />
@@ -31,7 +31,6 @@
   <app name="Burnt Toast" package="com.mohammadag.burnttoast" />
   <app name="Business Calendar" package="netgenius.bizcal" />
   <app name="BusyBox Free" package="stericson.busybox" />
-  <app name="Buzunar TV" package="me.ciubotaru.livetv.buzunartv" />
   <app name="Calculator" package="all.in.one.calculator" />
   <app name="Calendar Ortodox" package="ro.dcgavril.calendarortodox" />
   <app name="Camera ICS" package="com.moblynx.cameraics" />
@@ -45,11 +44,11 @@
   <app name="Default App Manager" package="com.appiator.defaultappmanager" />
   <app name="Device Info HW" package="ru.andr7e.deviceinfohw" />
   <app name="DiffTool" package="com.difftool" />
+  <app name="Digi România" package="ro.rcsrds.mydigi" />
   <app name="Digi.Online" package="ro.rcsrds.digionline" />
   <app name="DisableService" package="cn.wq.disableservice" />
   <app name="DiskUsage" package="com.google.android.diskusage" />
   <app name="Display Tester" package="com.gombosdev.displaytester" />
-  <app name="Dolphin" package="mobi.mgeek.TunnyBrowser" />
   <app name="DonkeyGuard" package="eu.donkeyguard" />
   <app name="DroidWall" package="com.googlecode.droidwall.free" />
   <app name="Dropbox" package="com.dropbox.android" />
@@ -82,6 +81,7 @@
   <app name="Hash It!" package="com.ginkel.hashit" />
   <app name="HERE WeGo" package="com.here.app.maps" />
   <app name="Hermit" package="com.chimbori.hermitcrab" />
+  <app name="Hibernator" package="com.tafayor.hibernator" />
   <app name="Holo Theme PRO" package="com.estrongs.android.pop.theme.ics.pro" />
   <app name="IDrive Online" package="com.prosoftnet.android.idriveonline" />
   <app name="IFTTT" package="com.ifttt.ifttt" />
@@ -92,10 +92,11 @@
   <app name="Instapaper" package="com.instapaper.android" />
   <app name="Internet Speed Meter" package="com.glitter.internetmeter" />
   <app name="IP Tools" package="com.ddm.iptools" />
-  <app name="iPTVRO PRO FREE" package="com.app.iptvropro" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
   <app name="JuiceSSH" package="com.sonelli.juicessh" />
+  <app name="K-9 Mail" package="com.fsck.k9" />
   <app name="Keepass2Android Offline" package="keepass2android.keepass2android_nonet" />
+  <app name="Kernel Adiutor" package="com.grarak.kerneladiutor" />
   <app name="Kernel Tweaker" package="com.dsht.kerneltweaker" />
   <app name="Khan Academy" package="org.khanacademy.android" />
   <app name="Kodi" package="org.xbmc.kodi" />
@@ -116,7 +117,6 @@
   <app name="Medicamente" package="ro.smartline.medicamente" />
   <app name="MEGA" package="mega.privacy.android.app" />
   <app name="Memento Database" package="com.luckydroid.droidbase" />
-  <app name="Memory Map" package="com.jzap.memorymap" />
   <app name="meteoblue" package="com.meteoblue.droid" />
   <app name="Mind Games Pro" package="mindware.mindgamespro" />
   <app name="Mini Metro" package="nz.co.codepoint.minimetro" />
@@ -130,7 +130,8 @@
   <app name="MX Player Codec (Tegra 3)" package="com.mxtech.ffmpeg.tegra3" />
   <app name="My APK" package="com.andatsoft.myapk.fwa" />
   <app name="My App List" package="com.projectsexception.myapplist" />
-  <app name="MyDigi" package="ro.rcsrds.mydigi" />
+  <app name="Naked Browser LTS" package="com.fevdev.nakedbrowserlts" />
+  <app name="Network Connections" package="com.antispycell.connmonitor" />
   <app name="NewPipe" package="org.schabi.newpipe" />
   <app name="Night Shift" package="com.ascendik.eyeshield" />
   <app name="NoRoot Firewall" package="app.greyshirts.firewall" />
@@ -160,7 +161,7 @@
   <app name="Postamp Icon Pack" package="com.kandara.stampiconpack" />
   <app name="PowerLine" package="com.urbandroid.inline" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
-  <app name="Promoții" package="com.cataloage.offerte" />
+  <app name="Promotions" package="com.cataloage.offerte" />
   <app name="Pushbullet" package="com.pushbullet.android" />
   <app name="QR Droid Private" package="la.droid.qr.priva" />
   <app name="Quick Boot" package="com.siriusapplications.quickboot" />
@@ -182,9 +183,11 @@
   <app name="Smart Recorder" package="com.andrwq.recorder" />
   <app name="SoC-L" package="com.ijsoft.socl" />
   <app name="Solitaire" package="com.microsoft.microsoftsolitairecollection" />
+  <app name="Sop to Http" package="com.trimarts.soptohttp" />
   <app name="Sound Meter" package="kr.sira.sound" />
   <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="StickMount" package="eu.chainfire.stickmount" />
+  <app name="Storage Analyzer" package="com.rjhartsoftware.storageanalyzer" />
   <app name="Suamp" package="com.surodev.suamp" />
   <app name="Sunrise Sunset" package="com.alokmandavgane.sunrisesunset" />
   <app name="SwiftKey Keyboard" package="com.touchtype.swiftkey" />
@@ -213,6 +216,7 @@
   <app name="TrenulMeu Mobile" package="ro.trenulmeu.mobile" />
   <app name="Trickster MOD" package="com.bigeyes0x0.trickstermod" />
   <app name="Trimmer (fstrim)" package="com.fifthelement.trimmer" />
+  <app name="Tv Mobile Romania" package="com.romexsoft.tvmobromania" />
   <app name="TweetCaster" package="com.handmark.tweetcaster" />
   <app name="TWRP Theme Manager" package="it.scumpinatos.twrpthememanager.main" />
   <app name="USB Device Info" package="aws.apps.usbDeviceEnumerator" />
