@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <app-list>
   <app name="/system/app mover" package="de.j4velin.systemappmover" />
-  <app name="3C Toolbox" package="ccc71.at.free" />
+  <app name="3C All-in-One Toolbox" package="ccc71.at.free" />
   <app name="500px" package="com.fivehundredpx.viewer" />
   <app name="920 Text Editor" package="com.jecelyin.editor" />
   <app name="AccuWeather" package="com.accuweather.android" />
@@ -19,7 +19,6 @@
   <app name="AppLock" package="com.sp.protector.free" />
   <app name="AppSales" package="net.tsapps.appsales" />
   <app name="Awesome Icons" package="com.momocode.shortcuts" />
-  <app name="Blue Light Filter - Night Mode" package="com.eyefilter.nightmode.bluelightfilter" />
   <app name="BlueMail" package="me.bluemail.mail" />
   <app name="Bluetooth ToolKit" package="com.android.xposed.finaly.bluetoothunlock" />
   <app name="BootManager" package="de.defim.apk.bootmanager" />
@@ -58,7 +57,6 @@
   <app name="DuckDuckGo" package="com.duckduckgo.mobile.android" />
   <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="ElectroDroid" package="it.android.demi.elettronica" />
-  <app name="eMAG" package="ro.emag.android" />
   <app name="engiemobile" package="ro.engie.agentia" />
   <app name="ES File Explorer Pro" package="com.estrongs.android.pop.pro" />
   <app name="ES Task Manager" package="com.estrongs.android.taskmanager" />
@@ -79,7 +77,6 @@
   <app name="Greenify (Donation Package)" package="com.oasisfeng.greenify.pro" />
   <app name="GSam - TB Icon Pack" package="com.touchboarder.materialcolor.bbmiconpack" />
   <app name="GSam Battery Monitor" package="com.gsamlabs.bbm" />
-  <app name="H2O Icon Pack" package="com.marcotls.icons.h2o.free" />
   <app name="Hacker's Keyboard" package="org.pocketworkstation.pckeyboard" />
   <app name="Hash Droid" package="com.hobbyone.HashDroid" />
   <app name="Hash It!" package="com.ginkel.hashit" />
@@ -105,6 +102,7 @@
   <app name="Legislativ" package="ro.numedecod.android.legi" />
   <app name="Libra Mobile" package="libra.mobile.banking" />
   <app name="Link2SD" package="com.buak.Link2SD" />
+  <app name="Linux Command Library" package="com.inspiredandroid.linuxcommandbibliotheca" />
   <app name="List My Apps" package="de.onyxbits.listmyapps" />
   <app name="Lite" package="com.facebook.lite" />
   <app name="LiveBoot" package="eu.chainfire.liveboot" />
@@ -134,6 +132,7 @@
   <app name="My App List" package="com.projectsexception.myapplist" />
   <app name="MyDigi" package="ro.rcsrds.mydigi" />
   <app name="NewPipe" package="org.schabi.newpipe" />
+  <app name="Night Shift" package="com.ascendik.eyeshield" />
   <app name="NoRoot Firewall" package="app.greyshirts.firewall" />
   <app name="Nova Launcher" package="com.teslacoilsw.launcher" />
   <app name="Nova Launcher Prime" package="com.teslacoilsw.launcher.prime" />
@@ -155,8 +154,10 @@
   <app name="Photo Exif Editor" package="net.xnano.android.photoexifeditor" />
   <app name="Photos" package="com.google.android.apps.photos" />
   <app name="PlanMaker Mobile Free" package="softmaker.applications.planmakertrial" />
+  <app name="Play Music Alarms" package="com.ican.simplemusicalarm" />
   <app name="Play Services &amp; Play Store Info" package="ynotvcan.info.googleplayservices" />
   <app name="Pocket" package="com.ideashower.readitlater.pro" />
+  <app name="Postamp Icon Pack" package="com.kandara.stampiconpack" />
   <app name="PowerLine" package="com.urbandroid.inline" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
   <app name="Promoții" package="com.cataloage.offerte" />
@@ -167,6 +168,7 @@
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="QuickShortcutMaker" package="com.sika524.android.quickshortcut" />
   <app name="RAR" package="com.rarlab.rar" />
+  <app name="Reigns: GoT" package="com.devolver.reignsGot" />
   <app name="Ringtone Maker" package="com.herman.ringtone" />
   <app name="Root App Deleter" package="zsj.android.systemappremover" />
   <app name="Root ToolCase" package="com.cpu82.roottoolcase" />
