@@ -6,6 +6,8 @@
   <app name="Ampere" package="com.gombosdev.ampere" />
   <app name="AppLock" package="com.sp.protector.free" />
   <app name="AppSales" package="net.tsapps.appsales" />
+  <app name="Barcode Generator" package="com.blogspot.aeioulabs.barcode" />
+  <app name="Barcode Scanner" package="com.google.zxing.client.android" />
   <app name="BetterBatteryStats" package="com.asksven.betterbatterystats_xdaedition" />
   <app name="BootUnlocker" package="net.segv11.bootunlocker" />
   <app name="BradyBound" package="com.oxplot.bradybound" />
@@ -24,7 +26,6 @@
   <app name="Changes" package="com.saladevs.changelogclone" />
   <app name="Cinematics" package="com.kkings.cinematics" />
   <app name="Cloud Print" package="com.google.android.apps.cloudprint" />
-  <app name="CM13/12.1 Galaxy S6" package="com.wsdeveloper.galaxy" />
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="Compass" package="com.gn.android.compass" />
   <app name="Convert Everything" package="com.fluffydelusions.app.converteverything" />
@@ -50,7 +51,6 @@
   <app name="ForceDoze" package="com.suyashsrijan.forcedoze" />
   <app name="FreeBox" package="com.fishstix.dosboxfree" />
   <app name="FunRun" package="com.szkct.funrun.main" />
-  <app name="Google Play services for Instant Apps" package="com.google.android.instantapps.supervisor" />
   <app name="GPS Essentials" package="com.mictale.gpsessentials" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
   <app name="GPU-L" package="com.ijsoft.gpul" />
@@ -72,11 +72,9 @@
   <app name="Internet Speed Meter Lite" package="com.internet.speed.meter.lite" />
   <app name="IP Tools" package="com.ddm.iptools" />
   <app name="Island" package="com.oasisfeng.island" />
-  <app name="Kaufland" package="com.kaufland.Kaufland" />
-  <app name="Keep" package="com.google.android.keep" />
+  <app name="Keep Notes" package="com.google.android.keep" />
   <app name="Keepass2Android Offline" package="keepass2android.keepass2android_nonet" />
   <app name="Libra Mobile" package="libra.mobile.banking" />
-  <app name="Lidl" package="de.sec.mobile" />
   <app name="Link2SD" package="com.buak.Link2SD" />
   <app name="List My Apps" package="de.onyxbits.listmyapps" />
   <app name="LocalCast" package="de.stefanpledl.localcast" />
@@ -84,7 +82,6 @@
   <app name="LockScreen changer CM13" package="com.alicantedevelopers.lockscreenchangercm13" />
   <app name="Locus Map" package="menion.android.locus.pro" />
   <app name="Lynket" package="arun.com.chromer" />
-  <app name="MacroDroid" package="com.arlosoft.macrodroid" />
   <app name="MatLog" package="com.pluscubed.matlog" />
   <app name="MDScan" package="com.stoik.mdscan" />
   <app name="Medicamente" package="ro.smartline.medicamente" />
@@ -120,21 +117,24 @@
   <app name="Pocket" package="com.ideashower.readitlater.pro" />
   <app name="Pressure Tracker" package="jied83.barotool.barotool" />
   <app name="PrinterShare" package="com.dynamixsoftware.printershare" />
+  <app name="Promotions" package="com.cataloage.offerte" />
   <app name="Pushbullet" package="com.pushbullet.android" />
   <app name="qcktag" package="com.apps.sreeni.qcktag" />
   <app name="QR Droid Private" package="la.droid.qr.priva" />
   <app name="Quick Reminder Pro" package="com.bhanu.quickreminders" />
   <app name="QuickEdit" package="com.rhmsoft.edit" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
+  <app name="Revolut" package="com.revolut.revolut" />
   <app name="Ringtone Maker" package="com.herman.ringtone" />
   <app name="Root ToolCase" package="com.cpu82.roottoolcase" />
   <app name="Salvamont" package="ro.vodafone.salvamontapp" />
   <app name="Screenshot Easy" package="com.icecoldapps.screenshoteasy" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="Sensor Box for Android" package="imoblife.androidsensorbox" />
-  <app name="SIM Card" package="com.gsmdev.simcard" />
+  <app name="SIM Tool Manager" package="com.keesadens.SIMcardToolManager" />
   <app name="Situatia Drumurilor din Romania" package="com.shelx.situatiadrumurilor" />
   <app name="Smart Recorder" package="com.andrwq.recorder" />
+  <app name="SMS Backup &amp; Restore" package="com.riteshsahu.SMSBackupRestore" />
   <app name="SoC-L" package="com.ijsoft.socl" />
   <app name="SopCast" package="org.sopcast.android" />
   <app name="Sound Meter" package="kr.sira.sound" />
@@ -172,7 +172,6 @@
   <app name="Wifi Connecter Library" package="com.farproc.wifi.connecter" />
   <app name="WiFi Key Recovery" package="aws.apps.wifiKeyRecovery" />
   <app name="WiFiAnalyzer" package="com.vrem.wifianalyzer" />
-  <app name="Windy" package="com.windyty.android" />
   <app name="Wireless Adapter" package="com.toshiba.adapter.cloud" />
   <app name="WPS Office" package="cn.wps.moffice_eng" />
   <app name="X-plore" package="com.lonelycatgames.Xplore" />
