@@ -8,6 +8,7 @@
   <app name="Flickr" package="com.yahoo.mobile.client.android.flickr" />
   <app name="Google Play services" package="com.google.android.gms" />
   <app name="GPS Test" package="com.chartcross.gpstest" />
+  <app name="Hibernation Manager" package="com.root.battery.saver.sleep.hibernation" />
   <app name="Holo Launcher" package="com.mobint.hololauncher" />
   <app name="Instagram" package="com.instagram.android" />
   <app name="Jota Text Editor" package="jp.sblo.pandora.jota" />
@@ -26,8 +27,9 @@
   <app name="S2E" package="ru.krikun.s2e" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="SIM Card" package="com.gsmdev.simcard" />
-  <app name="Speed Checker" package="uk.co.broadbandspeedchecker" />
+  <app name="Speedtest" package="org.zwanoo.android.speedtest" />
   <app name="Storage Analyser" package="com.levelokment.storageanalyser" />
+  <app name="SystemPanel Lite" package="nextapp.systempanel" />
   <app name="Total Commander" package="com.ghisler.android.TotalCommander" />
   <app name="TotalBox plugin for Total Commander" package="sk.onkokubo.tc.dropbox" />
   <app name="Totalcmd-Drive" package="com.ghisler.tcplugins.drive" />
