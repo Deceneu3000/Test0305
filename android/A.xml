@@ -9,16 +9,18 @@
   <app name="ColorNote" package="com.socialnmobile.dictapps.notepad.color.note" />
   <app name="CPU X" package="com.abs.cpu_z_advance" />
   <app name="Digi.Online" package="ro.rcsrds.digionline" />
+  <app name="Digital Clock" package="de.andreas1724.bigdigitalclock" />
   <app name="EDS Lite" package="com.sovworks.edslite" />
   <app name="F-Droid" package="org.fdroid.fdroid" />
   <app name="FlickrBot" package="tw.clotai.flickrbot" />
+  <app name="Fotoo" package="com.bo.fotoo" />
   <app name="Greenify" package="com.oasisfeng.greenify" />
   <app name="Greenify (Donation Package)" package="com.oasisfeng.greenify.pro" />
   <app name="GSam Battery Monitor" package="com.gsamlabs.bbm" />
-  <app name="Hermit" package="com.chimbori.hermitcrab" />
   <app name="Inoreader" package="com.innologica.inoreader" />
   <app name="K-9 Mail" package="com.fsck.k9" />
   <app name="KeePassDroid" package="com.android.keepass" />
+  <app name="MIUI 9 Icon Pack" package="ru.pt.iconpack.miui9" />
   <app name="MoveToSdcard" package="com.ljmobile.move.app" />
   <app name="Musicolet" package="in.krosbits.musicolet" />
   <app name="MX Player" package="com.mxtech.videoplayer.ad" />
@@ -30,6 +32,7 @@
   <app name="OsmAnd Contour lines" package="net.osmand.srtmPlugin.paid" />
   <app name="PDF Reader" package="classic.pdf.reader.viewer.djvu.epub.fb2.txt.mobi.book.reader.lirbi.libri" />
   <app name="PlanMaker Mobile Free" package="softmaker.applications.planmakertrial" />
+  <app name="Promoții" package="com.cataloage.offerte" />
   <app name="QuickPic" package="com.alensw.PicFolder" />
   <app name="Search Everything" package="com.marlon.searcheverything" />
   <app name="SopCast" package="org.sopcast.android" />
