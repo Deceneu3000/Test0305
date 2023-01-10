@@ -1,0 +1,242 @@
+1. Internet
+- Network managers: net-tools, iproute2; network-manager; iwd, iw, wireless-tools, wpasupplicant, dhcpcd, rp-pppoe, ethtool 
+
+- VPN clients
+c: logmein-hamachi, openvpn, wireguard
+g: haguichi, quamachi
+
+- Web browsers
+c: links2, elinks, lynx
+g: firefox, konqueror, rekonq, dillo, seamonkey, chrome, netsurf
+
+-File sharing
+Download managers: wget, curl, aria2, lftp; httrack; Youtube-dl, mps-youtube, ytfzf
+Cloud: dropbox, kfilebox, dropbox-cli
+FTP clients: filezilla,	kftpgrabber, gftp, bareftp, ncftp
+FTP servers: vsftpd, bftpd, openssh
+LAN: samba, nfs-utils
+
+BitTorrent clients
+c: aria2, lftp, transmission-remote-cli
+g: deluge, ktorrent, transmission, qBittorrent
+
+- Communication
+Email clients: thunderbird, kmail, evolution, alpine
+Instant messaging clients: pidgin, kopete, skype, rambox, ferdi, finch
+
+News aggregators:
+c: RSSOwl, akregator, liferea
+g: newsbeuter, newsboat
+
+- Remote desktop
+Remote desktop clients: remmina, krdc, vinagre, tigervnc; teamviewer
+
+- Other: etherwake; iperf3; speedtest-cli; macchanger; telnet
+
+2. Multimedia
+- Image
+Image viewers: 
+c: fbi, fim, fbv, zgv
+g: eog,	kuickshow, nomacs, ristretto, gpicview, viewnior, mirage, xli, feh, eom
+
+Image organizers: gthumb, gwenview, geeqie, nomacs
+Image processing: converseen, imagemagick
+
+Raster graphics editors: gimp, pinta; gnome-paint, kolourpaint, mtpaint
+Screenshot: gnome-screenshot, ksnapshot, spectacle, xfce4-screenshooter, shutter; scrot, fbgrab, fbcat
+
+
+- Audio
+Audio players:
+c: mpg123, moc
+g: rhythmbox, amarok, audacious, clementine, deadbeef
+
+Audio tag editors: easytag, puddletag; id3lib 
+Audio converters: soundconverter, soundkonverter, Transcoder Audio Edition; ffmpeg; lame
+Audio editors: gnome-sound-recorder, kwave, audacity; arecord
+
+Volume control: pavucontrol, kmix, gnome-alsamixer, alsamixer
+
+CD ripping
+c: cdparanoia, abcde
+g: asunder, KAudioCreator, sound-juicer
+
+- Video
+Video players: 
+c: mplayer2, mpv
+g: gnome-mplayer, smplayer, vlc; kodi
+
+Video converters: arista, winff; ffmpeg
+Video editors: openshot, kdenlive, pitivi
+Screencast: gtk-recordmydesktop, qt-recordmydesktop, xvidcap
+Webcam: cheese,	kamoso,	guvcview
+DVD Rip: handbrake-gtk,	K9Copy,	dvdrip
+
+- Metadata: mediainfo, exiv2
+
+- Optical disc burning
+c: cdw, bashburn, cdrtools, cdrkit, dvd+rw-tools, cdrdao, udftools
+g: brasero, k3b, xfburn, nerolinux; isomaster
+- Mobile device managers: android-tools; gmtp, mtpfs, go-mtpfs, jmtpfs, simple-mtpfs
+- Mount ISO: furiusisomount, AcetoneISO, fuseiso, archivemount
+- Other: eject, isomd5sum
+
+3. Utilities
+- Terminal
+Emulators: gnome-terminal, konsole, xterm, xfce4-terminal, terminator, lxterminal; tilda, yakuake, stjerm; putty
+Pagers: more, less, most
+Multiplexers: screen, tmux
+Shell tools: bash-completion, cowsay, fortune-mod, fbset, gpm
+
+- Files
+File managers:
+c: mc, lfm, broot
+g: doublecmd, krusader, emelfm2; nautilus, dolphin, thunar, pcmanfm, nemo, caja
+
+Trash management: trash-cli
+File synchronization and backup
+c: rsync 
+g: grsync, luckyBackup, unison
+
+Archiving and compression tools
+c: bzip2, gzip, xz, rar, p7zip, unace, zip, unzip, cabextract, dtrx
+g: file-roller,	ark, xarchiver, engrampa
+
+Comparison, diff, merge:
+c: diffutils, sdiff, colordiff, xdelta3
+g: meld, Kdiff3, kompare, tkdiff, diffuse
+
+Batch renamers: pyrenamer, krename, gprename
+File searching: gnome-search-tool, kfind, searchmonkey, catfish, fsearch; find
+
+Other: exa, file, ls++
+
+-Development
+Version control systems: git
+Integrated development environments:
+g: anjuta, Kdevelop, monodevelop, 
+c: Build-essential, base-devel (gnumake)
+
+Hex editors
+c: dhex, hexcurse, hexedit
+g: ghex, okteta, bless
+
+Debug: strace
+GUI builders: zenity, gtkdialog; dialog, whiptail
+
+- Text input
+Character selectors: gucharmap,	kcharselect
+On-screen keyboards: onboard
+Keyboard layout switchers: fbxkb, fskbsetting
+Keybinding managers: xbindkeys-config, xbindkeys
+
+- Disks
+Partitioning tools:
+c: cfdisk, gdisk, cgdisk, parted, gpart, gptfdisk
+g: gparted, partitionmanager, gnome-disk-utility
+
+Cloning tools: ddrescue, clonezilla, partclone, partimage; fsarchiver, qt4-fsarchiver, fsarchiver-gui
+
+Mount tools: pmount, bashmount, udisks2
+
+Disk usage display:
+c: ncdu, dua; dfc, pydf; tree
+g: baobab, K4dirstat, treesize, filelight, jdiskreport
+
+Disk health status: gsmartcontrol, smartmontools
+File recovery: dvdisaster, dares-qt, dares; autopsy, sleuthkit, foremost, testdisk
+Disk cleaning: bleachbit, sweeper
+File systems: gigolo; sshfs, curlftpfs, davfs2, bindfs, unionfs, squashfs-tools, wimtools, e2fsprogs, dosfstools, ntfs-3g, fuse
+Other: disktype; hdparm, sdparm; kpartx; lvm2; nwipe, ms-sys, mtools
+
+- System
+
+Task managers: 
+c: htop, bashtop, nmon, btop;
+g: gnome-system-monitor, ksysguard, xfce4-taskmanager, lxtask
+
+System monitors: iotop; conky
+Hardware sensor monitoring: xsensors, ksensors, xfce4-sensors; Lm-sensors, hddtemp
+
+System information viewers: 
+c: lshw, dmidecode, inxi, hwinfo, i7z; neofetch, screenfetch, linuxlogo, fastfetch, cpufetch; mesa-utils; usbutils, pciutils
+g: hardinfo, kinfocenter, lshw-gtk
+
+System log viewers: gnome-system-log, ksystemlog
+Help viewers: gtkman, man, tldr
+Screen management: Lxrandr, arandr; xrandr
+Backlight management: xbacklight
+Bluetooth management: bluez; blueman
+Shutdown timers: gshutdown, kshutdown, qshutdown
+System management: bum, systemd-ui, kcmsystemd, System-config-services, systemdx, sysv-rc-conf, ntsysv, serman
+Boot management: grub, grub-customizer, grub2-editor; efibootmgr; syslinux
+>Package management: synaptic, muon, adept, cli-aptx; sourceinstall-gtk, sourceinstall; pcurses, pacman; dnfdragora
+ AUR helpers: PkgBrowser, Octopi; cylon, yaourt, yay; trizen, auracle
+ Other: alien, checkinstall
+Power management: acpitool
+CPU frequency scaling: cpufrequtils, cpupower; cpulimit
+Virtualization: vmware,	aqemu, virtualbox, virt-manager; dosbox; docker; distrobox
+Compatibility layers: playonlinux, q4wine, wine
+System integrity: deborphan, debsums, cruft; paccheck, lostfiles
+Other: localepurge; lsof; fontconfig; which
+
+
+4. Documents
+- Text editors
+c: vim, nano, tilde
+g: geany, kate, scite, featherpad, gvim, gedit,	kwrite,	leafpad, mousepad, pluma
+
+- Office
+Office suites: libreoffice, koffice; abiword; gnumeric
+
+- Document converters: odt2txt; catdoc; antiword; docx2txt; xlsx2csv
+
+- Readers
+nfoview
+
+PDF and DjVu:
+c: pdftohtml, fbgs, jfbview; pdftk; img2pdf
+g: evince, Okular, qpdfview, epdfview, AdobeReader, atril, mupdf; pdfarranger, pdfchain
+
+E-book: cr3, calibre, FBReader
+Comic book: comix, qcomicbook, mcomix
+CHM: xchm, kchmviewer, chmsee
+
+- Scanning software: xsane, skanlite, simple-scan, xscanimage, gscan2pdf; scanimage
+- OCR software: gimagereader, ocrfeeder, tesseract
+- Note-taking software: zim, basket, nixnote
+- Barcode generators and readers: Zint-qt; Qrencode, zbar-tools
+
+5. Security
+- Network security: Iptraf-ng, nmap
+Network monitor: iftop, bmon, tcptrack, wavemon, speedometer
+Network Tools: mtr; traceroute, ping; whois
+
+- Firewall management:
+c: ufw, iptables, fail2ban
+g: gufw, kmyfirewall, firestarter
+
+- Password managers: keepass2, keepassxc, keepassx, kpcli
+- Cryptography
+Hash checkers: gtkhash
+Encryption, signing, steganography: seahorse, kgpg, gpg4usb, gpa; gnupg2; steg, steghide
+Data Encryption: cryptkeeper, kencfs, gencfs, encfs; truecrypt,	veracrypt
+- Privilege elevation: su, sudo, doas, pkexec
+Other: chntpw; cmospwd; openssl, vlock
+
+6. Others
+Calculator: galculator,	kcalc, bc
+Unit conversion: gonvert, convertall, units
+Time management: ccal
+Time management: alarm-clock, kalarm
+Application menu editors: alacarte, lxmed, menulibre 
+Financial management: gnucash, kmymoney, homebank
+Video game platform emulators: fceux, higan, fceu; gmameui, qmc2, mame
+
+dconf-editor, gconf-editor
+galternatives, kalternatives, update-alternatives
+gextractwinicons
+gkdebconf, debconf-kde-helper, debconf
+
+Gnome extensions: ArcMenu, Frippery Move Clock, Vitals, Weeks Start on Monday Again, Sur Clock, Dash to Dock,
+Dash to Panel, System-monitor, Hide workspace thumbnails, Hibernate status button
